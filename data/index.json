@@ -1,0 +1,34 @@
+{
+  "actors": {
+    "pumpkin": "c345b837ac466ecc",
+    "mandrake": "5b216e556399d0b9",
+    "onion": "f1df1eef5b785f26",
+    "cabbage": "172240985e2e1f2b",
+    "ham": "1b3d7b7b56a86f6b",
+    "bone": "52ffb3a8187578e1",
+    "bread": "084634bcc64e6251",
+    "nettle": "968d5118af5718fc",
+    "witch": "97bfa81171ce43c9",
+    "mirta": "40cc7ccb1b9c3768",
+    "pyshka": "c0c2865c064b723d",
+    "groh": "fc152495d6a9ef6f",
+    "shpyn": "5dad9e4dc884d131",
+    "goroh": "9d445fa99bb4831c",
+    "fasol": "6a78b9b1aa984098",
+    "malusha": "aa8c52e6283024e1",
+    "frog": "7bd45f68606bb017",
+    "mosol": "5872c44fd7b36e8b",
+    "darina": "e3f2b28313ccf8da",
+    "player-ghost": "d18f209356104857"
+  },
+  "scenes": {
+    "kitchen": "e6f360f12788cd09",
+    "round1": "0dd124607e1bf12a",
+    "round2": "355e47575451a186",
+    "final": "5243320ebdcdea62"
+  },
+  "guide": "89343e2eff79de6f",
+  "handouts": "f2f17d9b368d52b2",
+  "adventure": "47360b8c5f58c5ba",
+  "source": "0e9e3b10e7843de4"
+}

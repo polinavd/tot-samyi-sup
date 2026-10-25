@@ -1,0 +1,56 @@
+{
+  "id": "tot-samyi-sup",
+  "title": "Тот Самый Суп",
+  "description": "Полноценное приключение на русском языке: кулинарный турнир, Кухня-на-Меже, существа и инструменты ведущего.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Конвертация пользовательских материалов"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14.367",
+    "verified": "14.369"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "6.0.0",
+          "verified": "6.0.0"
+        }
+      }
+    ]
+  },
+  "esmodules": [
+    "scripts/main.mjs"
+  ],
+  "styles": [
+    "styles/soup.css"
+  ],
+  "packs": [
+    {
+      "name": "adventure",
+      "label": "Тот Самый Суп · Приключение",
+      "path": "packs/adventure",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "NONE",
+        "ASSISTANT": "OBSERVER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Тот Самый Суп",
+      "color": "#8c5738",
+      "packs": [
+        "adventure"
+      ]
+    }
+  ],
+  "license": "docs/ATTRIBUTION.md"
+}

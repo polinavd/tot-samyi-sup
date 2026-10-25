@@ -1,0 +1,22 @@
+<div class="tss-content">
+ <header class="tss-hero"><div class="tss-eyebrow">КУХНЯ НА МЕЖЕ · САМАЙН</div><h1>Тот Самый Суп</h1><p>Тур {{round}} · {{roundName}}</p></header>
+ {{#unless imported}}<div class="tss-notice">Сначала импортируйте приключение из компендия.<button type="button" data-action="dispatch" data-command="import">Открыть импорт</button></div>{{/unless}}
+ <nav class="tss-toolbar"><button type="button" data-action="dispatch" data-command="guide">Руководство</button><button type="button" data-action="dispatch" data-command="diagnose">Диагностика</button><button type="button" data-action="dispatch" data-command="import">Компендий</button></nav>
+ <section><h2><span>01</span> Группа и текущий тур</h2>
+ <form class="tss-configuration" onsubmit="return false">
+ <div class="tss-three"><label>Тур<select name="round"><option value="1" {{#if round1}}selected{{/if}}>Закуска</option><option value="2" {{#if round2}}selected{{/if}}>Горячее</option><option value="3" {{#if round3}}selected{{/if}}>Финал — Суп</option></select></label><label>Группа<select name="size"><option value="3" {{#if small}}selected{{/if}}>3 персонажа</option><option value="4" {{#if normal}}selected{{/if}}>4 персонажа</option><option value="5" {{#if large}}selected{{/if}}>5 персонажей</option></select></label><label>Уровень<select name="level"><option value="4" {{#if level4}}selected{{/if}}>4</option><option value="5" {{#if level5}}selected{{/if}}>5</option></select></label></div>
+ <div class="tss-party">{{#each characters}}<label class="tss-check"><input type="checkbox" name="party" value="{{id}}" {{#if selected}}checked{{/if}}>{{name}}</label>{{else}}<p>Создайте или импортируйте листы персонажей игроков в этот мир.</p>{{/each}}</div>
+ <button type="button" class="tss-primary" data-action="dispatch" data-command="config">Сохранить настройки</button>
+ </form>
+ <div class="tss-two"><button type="button" data-action="dispatch" data-command="prepare">Подготовить сцену</button><button type="button" data-action="dispatch" data-command="combat">Создать бой · 10 раундов</button></div><p class="tss-hint">Сложность применяется при первой подготовке сцены. Ресурсы персонажей сохраняются между турами.</p>
+ </section>
+ <section><h2><span>02</span> Ингредиенты</h2><p class="tss-hint">Выберите токен после добивающего удара. Учтите временные хиты и фактически нанесённый урон.</p><div class="tss-two"><button type="button" data-action="dispatch" data-command="harvest">Зафиксировать добычу</button><button type="button" data-action="dispatch" data-command="temp">«Аккуратнее!» · 10 временных</button></div>
+ <div class="tss-ledger">{{#each ingredients}}<div class="tss-ingredient"><div><strong>{{name}}</strong><small class="{{#if spoiled}}tss-spoiled{{/if}}">{{condition}}</small></div><button type="button" data-action="dispatch" data-command="owner" data-id="{{id}}">{{ownerName}}</button></div>{{else}}<p class="tss-empty">Добычи этого тура пока нет.</p>{{/each}}</div>
+ <button type="button" class="tss-primary" data-action="dispatch" data-command="cook">Готовка и оценка</button>{{#if retried}}<p class="tss-hint">Право на одну повторную готовку финала уже предложено.</p>{{/if}}
+ </section>
+ <section><h2><span>03</span> Котёл и команды</h2><div class="tss-team-row">{{#each teams}}<div><strong>{{name}}</strong><small>Участников: {{count}}</small></div>{{/each}}</div><div class="tss-two"><button type="button" data-action="dispatch" data-command="loss">Потеря соперника</button><button type="button" data-action="dispatch" data-command="ghost">Создать призрака героя</button><button type="button" data-action="dispatch" data-command="cauldron">Урон котла · 3к6</button><button type="button" data-action="dispatch" data-command="boss">Бой со Шкваркой</button></div><button type="button" data-action="dispatch" data-command="lair">Действие логова · инициатива 20</button>
+ {{#if hasVictims}}<p class="tss-hint">В котле: {{#each victims}}{{name}}; {{/each}}исходные листы не изменены.</p>{{/if}}
+ </section>
+ {{#if hasResults}}<section><h2><span>04</span> Результаты</h2>{{#each results}}<div class="tss-result"><strong>Тур {{round}} · {{total}}</strong><span>{{result}}</span></div>{{/each}}<button type="button" data-action="dispatch" data-command="undo-result">Исправить последнюю оценку</button></section>{{/if}}
+ <footer><span>Для ведущего · правила 2014</span><button type="button" data-action="dispatch" data-command="reset">Сбросить учёт</button></footer>
+</div>

@@ -1,0 +1,9 @@
+# Runtime database locks and diagnostic logs are recreated by Foundry.
+packs/**/LOCK
+packs/**/LOG
+packs/**/LOG.old
+
+# Local operating-system files.
+.DS_Store
+Thumbs.db
+desktop.ini
