@@ -3,7 +3,7 @@
   "name": "Тот Самый Суп",
   "img": "modules/tot-samyi-sup/assets/art/elena-mikhailova-halloween-em.jpg",
   "caption": "3–5 персонажей · 4-й уровень · 4–5 часов · Иллюстрация © Elena Kravets",
-  "description": "<p>Кулинарный турнир на Кухне-на-Меже. Исходное приключение, карта, существа, добыча и панель ведущего для Foundry VTT 14 / dnd5e 6.0.0. После импорта откройте журнал «00 · Начните здесь».</p><p>Иллюстрация обложки © <a href=\"https://www.artstation.com/elenamikhailova\" target=\"_blank\" rel=\"noopener noreferrer\">Elena Kravets</a>.</p>",
+  "description": "<p>Кулинарный турнир на Кухне-на-Меже. Исходное приключение, карта, существа, добыча и панель ведущего для Foundry VTT 13.351 / dnd5e 5.3.3 и Foundry VTT 14 / dnd5e 5.3.3 или 6. После импорта откройте журнал «00 · Начните здесь».</p><p>Иллюстрация обложки © <a href=\"https://www.artstation.com/elenamikhailova\" target=\"_blank\" rel=\"noopener noreferrer\">Elena Kravets</a>.</p>",
   "actors": [
     {
       "_id": "c345b837ac466ecc",
@@ -118,7 +118,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "7ee8b728410ed0c7",
@@ -143,7 +148,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "ad1971e6e7eeafc3",
@@ -230,7 +240,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "b9fba6cc86a8d34b",
@@ -304,7 +319,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -337,9 +357,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -452,7 +472,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "9dd8b0714e325ed6",
@@ -539,7 +564,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "0134159932acdd6b",
@@ -627,7 +657,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -660,9 +695,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -788,7 +823,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "e1434aa747aed80a",
@@ -813,7 +853,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "106143137bdcce65",
@@ -888,7 +933,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "71b984ee2adbbfb2",
@@ -975,7 +1025,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "564fdbdc390ba6a9",
@@ -1062,7 +1117,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -1095,9 +1155,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -1210,7 +1270,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "b99b5a96e8a71554",
@@ -1297,7 +1362,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "071329eadc50ca40",
@@ -1358,7 +1428,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -1391,9 +1466,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -1510,7 +1585,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "cde56a27c0fed9b5",
@@ -1597,7 +1677,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "83dd088e1401f826",
@@ -1697,7 +1782,12 @@
               ]
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -1730,9 +1820,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -1855,7 +1945,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "275dcb66495ff432",
@@ -1916,7 +2011,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "0fa0a99f23f1458a",
@@ -2003,7 +2103,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -2036,9 +2141,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -2151,7 +2256,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "4720554d0688ca4b",
@@ -2176,7 +2286,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "f1df40766d6c3e25",
@@ -2201,7 +2316,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "2776e8888f7e1183",
@@ -2288,7 +2408,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "82917e623a8e0b73",
@@ -2349,7 +2474,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -2382,9 +2512,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -2501,7 +2631,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "0c68f5c6b1b4a8c3",
@@ -2578,7 +2713,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "2f9edde4d1a9a11c",
@@ -2677,7 +2817,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -2710,9 +2855,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -2853,7 +2998,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "1b1ad9d26c2155bb",
@@ -2914,7 +3064,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "798349dff81b5bf7",
@@ -3001,7 +3156,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "fd64ccebc1c6b5ce",
@@ -3088,7 +3248,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "8f38519322f6da89",
@@ -3188,7 +3353,12 @@
               ]
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "8f1e62795638913e",
@@ -3249,7 +3419,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "770a45e0e7df3729",
@@ -3274,7 +3449,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "7fb3d098960f4aa6",
@@ -3361,7 +3541,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "992dbd78fdbb715f",
@@ -3436,7 +3621,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "da1b641d2cb86662",
@@ -3497,7 +3687,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "92430b76f1ddf23f",
@@ -3668,15 +3863,17 @@
               "transfer": false,
               "_id": "imsGW3YRra9KF6iK",
               "type": "base",
-              "system": {
-                "changes": []
-              },
+              "system": {},
+              "changes": [],
               "disabled": false,
               "duration": {
-                "value": 6,
-                "units": "seconds",
-                "expiry": "turnStart",
-                "expired": false
+                "startTime": null,
+                "combat": null,
+                "seconds": 6,
+                "rounds": null,
+                "turns": null,
+                "startRound": null,
+                "startTurn": null
               },
               "description": "<p>You have disadvantage on the next attack roll you make before the end of your next turn.</p>",
               "tint": "#ffffff",
@@ -3688,10 +3885,18 @@
                   }
                 }
               },
-              "start": null,
-              "showIcon": 1
+              "_stats": {
+                "coreVersion": "13.351",
+                "systemId": "dnd5e",
+                "systemVersion": "5.3.3"
+              }
             }
-          ]
+          ],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "c8236c66cc53d5e8",
@@ -3896,7 +4101,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/witch.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "9b6ac1f98b79fe54",
@@ -4027,7 +4237,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/witch.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "06b92138bff1484d",
@@ -4170,35 +4385,39 @@
             {
               "name": "Invisibility",
               "duration": {
-                "value": 1,
-                "units": "hours",
-                "expiry": "turnStart",
-                "expired": false
+                "startTime": null,
+                "seconds": 3600,
+                "combat": null,
+                "rounds": null,
+                "turns": null,
+                "startRound": null,
+                "startTurn": null
               },
               "disabled": true,
               "_id": "TeFxBRKYKIXtg6pS",
-              "description": "<p>You become &amp;reference[Invisible apply=false] until the spell ends. Anything you are wearing or carrying is invisible as long as it is on your person. The spell ends for you when you attack or cast a spell.</p>",
+              "changes": [],
+              "description": "<p>The target becomes Invisible until the spell ends. Anything the target is wearing or carrying is invisible as long as it is on the target's person. The spell ends for a target that attacks or casts a spell.</p>",
               "transfer": false,
               "statuses": [
                 "invisible"
               ],
-              "flags": {
-                "dnd5e": {
-                  "riders": {
-                    "statuses": []
-                  }
-                }
-              },
+              "flags": {},
               "tint": "#ffffff",
               "img": "modules/tot-samyi-sup/assets/tokens/witch.svg",
               "type": "base",
-              "system": {
-                "changes": []
-              },
-              "showIcon": 2,
-              "start": null
+              "system": {},
+              "_stats": {
+                "coreVersion": "13.351",
+                "systemId": "dnd5e",
+                "systemVersion": "5.3.3"
+              }
             }
-          ]
+          ],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "8bdbe30921e8d1e7",
@@ -4232,19 +4451,16 @@
               "affects": {
                 "type": "object",
                 "count": "1",
-                "choice": false,
-                "special": ""
+                "choice": false
               },
               "template": {
                 "units": "",
-                "contiguous": false,
-                "type": ""
+                "contiguous": false
               }
             },
             "range": {
               "value": "60",
-              "units": "ft",
-              "special": ""
+              "units": "ft"
             },
             "uses": {
               "max": "1",
@@ -4274,10 +4490,9 @@
                 "_id": "dnd5eactivity000",
                 "type": "save",
                 "activation": {
-                  "type": "bonus",
+                  "type": "action",
                   "value": null,
-                  "override": true,
-                  "condition": ""
+                  "override": false
                 },
                 "consumption": {
                   "targets": [
@@ -4299,223 +4514,37 @@
                 "duration": {
                   "units": "inst",
                   "concentration": false,
-                  "override": true
+                  "override": false
                 },
-                "effects": [
-                  {
-                    "_id": "hPjQYP6nZM06WETE",
-                    "onSave": false,
-                    "level": {
-                      "min": null,
-                      "max": null
-                    }
-                  }
-                ],
+                "effects": [],
                 "range": {
-                  "override": true,
-                  "special": "",
-                  "units": "spec"
+                  "override": false
                 },
                 "target": {
                   "prompt": true,
                   "template": {
                     "contiguous": false,
-                    "units": "ft",
-                    "type": ""
-                  },
-                  "affects": {
-                    "choice": false,
-                    "type": "creature",
-                    "count": "1",
-                    "special": ""
-                  },
-                  "override": true
-                },
-                "damage": {
-                  "onSave": "none",
-                  "parts": []
-                },
-                "save": {
-                  "ability": "con",
-                  "dc": {
-                    "calculation": "",
-                    "formula": "14"
-                  },
-                  "bonus": ""
-                },
-                "uses": {
-                  "spent": 0,
-                  "recovery": [],
-                  "max": ""
-                },
-                "name": "Hold onto Object Save",
-                "img": "",
-                "visibility": {
-                  "level": {
-                    "min": null,
-                    "max": null
-                  }
-                }
-              },
-              "xQF2eW8hFVpfT1h0": {
-                "type": "utility",
-                "name": "Cast",
-                "_id": "xQF2eW8hFVpfT1h0",
-                "img": "",
-                "activation": {
-                  "type": "action",
-                  "override": false
-                },
-                "consumption": {
-                  "scaling": {
-                    "allowed": false
-                  },
-                  "spellSlot": false,
-                  "targets": [
-                    {
-                      "type": "itemUses",
-                      "target": "",
-                      "value": "1"
-                    }
-                  ]
-                },
-                "description": {
-                  "value": "",
-                  "chatFlavor": ""
-                },
-                "duration": {
-                  "units": "inst",
-                  "concentration": false,
-                  "override": false
-                },
-                "effects": [
-                  {
-                    "_id": "UFaQd43rbMjowXA2",
-                    "level": {}
-                  }
-                ],
-                "flags": {},
-                "range": {
-                  "units": "self",
-                  "override": false
-                },
-                "target": {
-                  "template": {
-                    "contiguous": false,
-                    "stationary": false,
                     "units": "ft"
                   },
                   "affects": {
                     "choice": false
                   },
-                  "override": false,
-                  "prompt": true
-                },
-                "uses": {
-                  "spent": 0,
-                  "recovery": [],
-                  "max": ""
-                },
-                "visibility": {
-                  "level": {
-                    "min": null,
-                    "max": null
-                  },
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false
-                },
-                "roll": {
-                  "prompt": false,
-                  "visible": false,
-                  "name": "",
-                  "formula": ""
-                }
-              },
-              "G2KFLGhU06lqMm12": {
-                "type": "damage",
-                "name": "Scorch Object",
-                "_id": "G2KFLGhU06lqMm12",
-                "img": "",
-                "activation": {
-                  "type": "bonus",
-                  "override": true,
-                  "condition": ""
-                },
-                "consumption": {
-                  "scaling": {
-                    "allowed": false
-                  },
-                  "spellSlot": false,
-                  "targets": [
-                    {
-                      "type": "itemUses",
-                      "target": "",
-                      "value": "1"
-                    }
-                  ]
-                },
-                "description": {
-                  "value": "",
-                  "chatFlavor": ""
-                },
-                "duration": {
-                  "units": "inst",
-                  "concentration": false,
-                  "override": true
-                },
-                "effects": [],
-                "flags": {},
-                "range": {
-                  "units": "self",
                   "override": false
                 },
-                "target": {
-                  "template": {
-                    "contiguous": false,
-                    "stationary": false,
-                    "units": "ft",
-                    "type": ""
-                  },
-                  "affects": {
-                    "choice": false,
-                    "type": "creature",
-                    "count": "1",
-                    "special": ""
-                  },
-                  "override": true,
-                  "prompt": true
-                },
-                "uses": {
-                  "spent": 0,
-                  "recovery": [],
-                  "max": ""
-                },
-                "visibility": {
-                  "level": {
-                    "min": null,
-                    "max": null
-                  },
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false
-                },
                 "damage": {
-                  "critical": {
-                    "allow": false
-                  },
+                  "onSave": "half",
                   "parts": [
                     {
-                      "custom": {
-                        "enabled": false,
-                        "formula": ""
-                      },
                       "number": 2,
                       "denomination": 8,
                       "bonus": "",
                       "types": [
                         "fire"
                       ],
+                      "custom": {
+                        "enabled": false,
+                        "formula": ""
+                      },
                       "scaling": {
                         "mode": "whole",
                         "number": 1,
@@ -4523,6 +4552,17 @@
                       }
                     }
                   ]
+                },
+                "save": {
+                  "ability": "con",
+                  "dc": {
+                    "calculation": "",
+                    "formula": "14"
+                  }
+                },
+                "uses": {
+                  "spent": 0,
+                  "recovery": []
                 }
               }
             },
@@ -4533,109 +4573,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/witch.svg",
-          "effects": [
-            {
-              "name": "Heated Metal Object",
-              "img": "modules/tot-samyi-sup/assets/tokens/witch.svg",
-              "transfer": false,
-              "_id": "UFaQd43rbMjowXA2",
-              "type": "base",
-              "system": {
-                "changes": []
-              },
-              "disabled": false,
-              "start": null,
-              "duration": {
-                "value": 1,
-                "units": "minutes",
-                "expiry": "turnStart",
-                "expired": false
-              },
-              "description": "<p>A manufactored object you are holding, such as a metal weapon or suit of heavy or medium metal armor has begun to glow red-hot. While you are in physical contact with the object, you take fire damage.</p><p>When you take damage, you must succeed on a Constitution saving throw or drop the object if you can. If you don't drop the object, you have disadantage on attack rolls and ab ility checks until the start of your next turn.</p>",
-              "tint": "#ffffff",
-              "statuses": [],
-              "showIcon": 1,
-              "flags": {
-                "dnd5e": {
-                  "riders": {
-                    "statuses": []
-                  }
-                }
-              }
-            },
-            {
-              "name": "Holding onto Heated Object",
-              "img": "modules/tot-samyi-sup/assets/tokens/witch.svg",
-              "transfer": false,
-              "_id": "hPjQYP6nZM06WETE",
-              "type": "base",
-              "system": {
-                "changes": [
-                  {
-                    "key": "system.abilities.str.check.roll.mode",
-                    "type": "add",
-                    "value": -1,
-                    "phase": "initial",
-                    "priority": null
-                  },
-                  {
-                    "key": "system.abilities.dex.check.roll.mode",
-                    "type": "add",
-                    "value": -1,
-                    "phase": "initial",
-                    "priority": null
-                  },
-                  {
-                    "key": "system.abilities.con.check.roll.mode",
-                    "type": "add",
-                    "value": -1,
-                    "phase": "initial",
-                    "priority": null
-                  },
-                  {
-                    "key": "system.abilities.int.check.roll.mode",
-                    "type": "add",
-                    "value": -1,
-                    "phase": "initial",
-                    "priority": null
-                  },
-                  {
-                    "key": "system.abilities.wis.check.roll.mode",
-                    "type": "add",
-                    "value": -1,
-                    "phase": "initial",
-                    "priority": null
-                  },
-                  {
-                    "key": "system.abilities.cha.check.roll.mode",
-                    "type": "add",
-                    "value": -1,
-                    "phase": "initial",
-                    "priority": null
-                  }
-                ]
-              },
-              "disabled": false,
-              "start": null,
-              "duration": {
-                "value": 1,
-                "units": "rounds",
-                "expiry": "turnStart",
-                "expired": false
-              },
-              "description": "<p>You have disadvantage on attack rolls and ability checks until the start of the caster's next turn.</p>",
-              "tint": "#ffffff",
-              "statuses": [],
-              "showIcon": 1,
-              "flags": {
-                "dnd5e": {
-                  "riders": {
-                    "statuses": []
-                  }
-                }
-              }
-            }
-          ]
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -4668,9 +4611,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -4679,7 +4622,6 @@
       "type": "npc",
       "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
       "system": {
-        "identifier": "mirta",
         "abilities": {
           "str": {
             "value": 10,
@@ -5192,7 +5134,8 @@
           "license": "CC-BY-4.0",
           "revision": 1,
           "rules": "2014"
-        }
+        },
+        "identifier": "mirta"
       },
       "prototypeToken": {
         "name": "Мирта Пенка",
@@ -5218,7 +5161,7 @@
           "system": {
             "description": {
               "value": "<p>Рукопашная атака оружием: +2, досягаемость 5 фт., одна цель. Урон 1d4 дробящего.</p>",
-              "chat": "<p>The [[lookup @name]]{monster} attacks with its [[lookup @item.name]].</p>"
+              "chat": "<p>The Commoner attacks with their Club.</p>"
             },
             "source": {
               "custom": "",
@@ -5299,7 +5242,7 @@
             "properties": [
               "lgt"
             ],
-            "proficient": null,
+            "proficient": 1,
             "unidentified": {
               "description": ""
             },
@@ -5310,7 +5253,8 @@
             "container": null,
             "crewed": false,
             "activities": {
-              "r3LRWbtePke8RY2r": {
+              "dnd5eactivity000": {
+                "_id": "dnd5eactivity000",
                 "type": "attack",
                 "activation": {
                   "type": "action",
@@ -5327,13 +5271,12 @@
                   "spellSlot": true
                 },
                 "description": {
-                  "chatFlavor": "",
-                  "value": ""
+                  "chatFlavor": ""
                 },
                 "duration": {
                   "concentration": false,
                   "value": "",
-                  "units": "inst",
+                  "units": "",
                   "special": "",
                   "override": false
                 },
@@ -5352,8 +5295,7 @@
                     "size": "",
                     "width": "",
                     "height": "",
-                    "units": "ft",
-                    "stationary": false
+                    "units": ""
                   },
                   "affects": {
                     "count": "",
@@ -5387,29 +5329,24 @@
                   },
                   "includeBase": true,
                   "parts": []
-                },
-                "img": null,
-                "flags": {},
-                "visibility": {
-                  "level": {},
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false
-                },
-                "_id": "r3LRWbtePke8RY2r"
+                }
               }
             },
             "attuned": false,
             "ammunition": {},
             "magicalBonus": null,
-            "identifier": "club",
-            "mastery": ""
+            "identifier": "club"
           },
           "effects": [],
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -5423,9 +5360,9 @@
       },
       "folder": "3fea03819d0db3b8",
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -5434,7 +5371,6 @@
       "type": "npc",
       "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
       "system": {
-        "identifier": "pyshka",
         "abilities": {
           "str": {
             "value": 10,
@@ -5947,7 +5883,8 @@
           "license": "CC-BY-4.0",
           "revision": 1,
           "rules": "2014"
-        }
+        },
+        "identifier": "pyshka"
       },
       "prototypeToken": {
         "name": "Пышка",
@@ -5973,7 +5910,7 @@
           "system": {
             "description": {
               "value": "<p>Рукопашная атака оружием: +2, досягаемость 5 фт., одна цель. Урон 1d4 дробящего.</p>",
-              "chat": "<p>The [[lookup @name]]{monster} attacks with its [[lookup @item.name]].</p>"
+              "chat": "<p>The Commoner attacks with their Club.</p>"
             },
             "source": {
               "custom": "",
@@ -6054,7 +5991,7 @@
             "properties": [
               "lgt"
             ],
-            "proficient": null,
+            "proficient": 1,
             "unidentified": {
               "description": ""
             },
@@ -6065,7 +6002,8 @@
             "container": null,
             "crewed": false,
             "activities": {
-              "r3LRWbtePke8RY2r": {
+              "dnd5eactivity000": {
+                "_id": "dnd5eactivity000",
                 "type": "attack",
                 "activation": {
                   "type": "action",
@@ -6082,13 +6020,12 @@
                   "spellSlot": true
                 },
                 "description": {
-                  "chatFlavor": "",
-                  "value": ""
+                  "chatFlavor": ""
                 },
                 "duration": {
                   "concentration": false,
                   "value": "",
-                  "units": "inst",
+                  "units": "",
                   "special": "",
                   "override": false
                 },
@@ -6107,8 +6044,7 @@
                     "size": "",
                     "width": "",
                     "height": "",
-                    "units": "ft",
-                    "stationary": false
+                    "units": ""
                   },
                   "affects": {
                     "count": "",
@@ -6142,29 +6078,24 @@
                   },
                   "includeBase": true,
                   "parts": []
-                },
-                "img": null,
-                "flags": {},
-                "visibility": {
-                  "level": {},
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false
-                },
-                "_id": "r3LRWbtePke8RY2r"
+                }
               }
             },
             "attuned": false,
             "ammunition": {},
             "magicalBonus": null,
-            "identifier": "club",
-            "mastery": ""
+            "identifier": "club"
           },
           "effects": [],
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -6178,9 +6109,9 @@
       },
       "folder": "3fea03819d0db3b8",
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -6189,7 +6120,6 @@
       "type": "npc",
       "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
       "system": {
-        "identifier": "groh",
         "abilities": {
           "str": {
             "value": 15,
@@ -6702,7 +6632,8 @@
           "license": "CC-BY-4.0",
           "revision": 1,
           "rules": "2014"
-        }
+        },
+        "identifier": "groh"
       },
       "prototypeToken": {
         "name": "Грох",
@@ -6792,7 +6723,59 @@
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
+        },
+        {
+          "_id": "OE8y8otGDFop6Fzt",
+          "name": "Тактика стаи",
+          "type": "feat",
+          "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
+          "system": {
+            "description": {
+              "value": "<p>Преимущество атаке по существу, если в 5 фт. от цели есть союзник головореза, который не недееспособен.</p>",
+              "chat": ""
+            },
+            "source": {
+              "custom": "",
+              "book": "",
+              "page": "",
+              "license": "CC-BY-4.0",
+              "rules": "2014",
+              "revision": 1
+            },
+            "uses": {
+              "max": "",
+              "spent": 0,
+              "recovery": []
+            },
+            "type": {
+              "value": "",
+              "subtype": ""
+            },
+            "requirements": "",
+            "properties": [],
+            "activities": {},
+            "enchant": {},
+            "prerequisites": {
+              "level": null
+            },
+            "identifier": "pack-tactics"
+          },
+          "effects": [],
+          "ownership": {
+            "default": 0
+          },
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "cac4FpQc3XabBwTj",
@@ -6818,13 +6801,14 @@
               "spent": 0
             },
             "type": {
-              "value": "monster",
+              "value": "",
               "subtype": ""
             },
             "requirements": "",
             "properties": [],
             "activities": {
-              "8ARpILPZY9SMmw9T": {
+              "dnd5eactivity000": {
+                "_id": "dnd5eactivity000",
                 "type": "utility",
                 "activation": {
                   "type": "action",
@@ -6841,19 +6825,18 @@
                   "spellSlot": true
                 },
                 "description": {
-                  "chatFlavor": "",
-                  "value": ""
+                  "chatFlavor": ""
                 },
                 "duration": {
                   "concentration": false,
                   "value": "",
-                  "units": "inst",
+                  "units": "",
                   "special": "",
                   "override": false
                 },
                 "effects": [],
                 "range": {
-                  "units": "self",
+                  "units": "",
                   "special": "",
                   "override": false
                 },
@@ -6865,8 +6848,7 @@
                     "size": "",
                     "width": "",
                     "height": "",
-                    "units": "ft",
-                    "stationary": false
+                    "units": ""
                   },
                   "affects": {
                     "count": "",
@@ -6887,16 +6869,7 @@
                   "name": "",
                   "prompt": false,
                   "visible": false
-                },
-                "img": null,
-                "flags": {},
-                "visibility": {
-                  "level": {},
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false
-                },
-                "_id": "8ARpILPZY9SMmw9T"
+                }
               }
             },
             "enchant": {},
@@ -6909,7 +6882,12 @@
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "9INT7D1zulhfsok7",
@@ -6919,7 +6897,7 @@
           "system": {
             "description": {
               "value": "<p>Дальнобойная атака оружием: +2, дистанция 100/400 фт., одна цель. Урон 1d10 колющего.</p>",
-              "chat": "<p>The [[lookup @name]]{monster} attacks with its [[lookup @item.name]].</p>"
+              "chat": "<p>The Thug attacks with their Heavy Crossbow.</p>"
             },
             "source": {
               "custom": "",
@@ -7002,7 +6980,7 @@
               "hvy",
               "two"
             ],
-            "proficient": null,
+            "proficient": 1,
             "unidentified": {
               "description": ""
             },
@@ -7013,7 +6991,8 @@
             "container": null,
             "crewed": false,
             "activities": {
-              "ejfUym9HRERG29vV": {
+              "dnd5eactivity000": {
+                "_id": "dnd5eactivity000",
                 "type": "attack",
                 "activation": {
                   "type": "action",
@@ -7030,13 +7009,12 @@
                   "spellSlot": true
                 },
                 "description": {
-                  "chatFlavor": "",
-                  "value": ""
+                  "chatFlavor": ""
                 },
                 "duration": {
                   "concentration": false,
                   "value": "",
-                  "units": "inst",
+                  "units": "",
                   "special": "",
                   "override": false
                 },
@@ -7055,8 +7033,7 @@
                     "size": "",
                     "width": "",
                     "height": "",
-                    "units": "ft",
-                    "stationary": false
+                    "units": ""
                   },
                   "affects": {
                     "count": "",
@@ -7073,15 +7050,15 @@
                   "recovery": []
                 },
                 "attack": {
-                  "ability": "",
+                  "ability": "dex",
                   "bonus": "",
                   "critical": {
                     "threshold": null
                   },
                   "flat": false,
                   "type": {
-                    "value": "",
-                    "classification": ""
+                    "value": "ranged",
+                    "classification": "weapon"
                   }
                 },
                 "damage": {
@@ -7090,36 +7067,24 @@
                   },
                   "includeBase": true,
                   "parts": []
-                },
-                "img": "",
-                "flags": {},
-                "visibility": {
-                  "level": {
-                    "min": null,
-                    "max": null
-                  },
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false,
-                  "identifier": ""
-                },
-                "_id": "ejfUym9HRERG29vV",
-                "name": ""
+                }
               }
             },
             "attuned": false,
-            "ammunition": {
-              "type": ""
-            },
+            "ammunition": {},
             "magicalBonus": null,
-            "identifier": "heavy-crossbow",
-            "mastery": ""
+            "identifier": "heavy-crossbow"
           },
           "effects": [],
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "6gRu9IFFkvxesFfK",
@@ -7129,7 +7094,7 @@
           "system": {
             "description": {
               "value": "<p>Рукопашная атака оружием: +4, досягаемость 5 фт., одна цель. Урон 1d6+2 дробящего.</p>",
-              "chat": "<p>The [[lookup @name]]{monster} attacks with its [[lookup @item.name]].</p>"
+              "chat": "<p>The Thug attacks with their Mace.</p>"
             },
             "source": {
               "custom": "",
@@ -7208,18 +7173,19 @@
               "conditions": ""
             },
             "properties": [],
-            "proficient": null,
+            "proficient": 1,
             "unidentified": {
               "description": ""
             },
             "type": {
-              "value": "simpleM",
+              "value": "martialM",
               "baseItem": "mace"
             },
             "container": null,
             "crewed": false,
             "activities": {
-              "Je2CIq96fuxMM98X": {
+              "dnd5eactivity000": {
+                "_id": "dnd5eactivity000",
                 "type": "attack",
                 "activation": {
                   "type": "action",
@@ -7236,13 +7202,12 @@
                   "spellSlot": true
                 },
                 "description": {
-                  "chatFlavor": "",
-                  "value": ""
+                  "chatFlavor": ""
                 },
                 "duration": {
                   "concentration": false,
                   "value": "",
-                  "units": "inst",
+                  "units": "",
                   "special": "",
                   "override": false
                 },
@@ -7261,8 +7226,7 @@
                     "size": "",
                     "width": "",
                     "height": "",
-                    "units": "ft",
-                    "stationary": false
+                    "units": ""
                   },
                   "affects": {
                     "count": "",
@@ -7279,15 +7243,15 @@
                   "recovery": []
                 },
                 "attack": {
-                  "ability": "",
+                  "ability": "str",
                   "bonus": "",
                   "critical": {
                     "threshold": null
                   },
                   "flat": false,
                   "type": {
-                    "value": "",
-                    "classification": ""
+                    "value": "melee",
+                    "classification": "weapon"
                   }
                 },
                 "damage": {
@@ -7296,82 +7260,24 @@
                   },
                   "includeBase": true,
                   "parts": []
-                },
-                "img": "",
-                "flags": {},
-                "visibility": {
-                  "level": {
-                    "min": null,
-                    "max": null
-                  },
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false,
-                  "identifier": ""
-                },
-                "_id": "Je2CIq96fuxMM98X",
-                "name": ""
+                }
               }
             },
             "attuned": false,
             "ammunition": {},
             "magicalBonus": null,
-            "identifier": "mace",
-            "mastery": ""
+            "identifier": "mace"
           },
           "effects": [],
           "ownership": {
             "default": 0
           },
-          "flags": {}
-        },
-        {
-          "_id": "pzOJ9VdL4B8syEma",
-          "name": "Тактика стаи",
-          "type": "feat",
-          "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "system": {
-            "description": {
-              "value": "<p>Преимущество атаке по существу, если в 5 фт. от цели есть союзник головореза, который не недееспособен.</p>",
-              "chat": ""
-            },
-            "source": {
-              "custom": "",
-              "book": "",
-              "page": "",
-              "license": "CC-BY-4.0",
-              "rules": "2014",
-              "revision": 1
-            },
-            "uses": {
-              "max": "",
-              "spent": 0,
-              "recovery": []
-            },
-            "type": {
-              "value": "monster",
-              "subtype": ""
-            },
-            "requirements": "",
-            "properties": [
-              "trait"
-            ],
-            "activities": {},
-            "enchant": {},
-            "prerequisites": {
-              "level": null,
-              "items": [],
-              "repeatable": false
-            },
-            "identifier": "pack-tactics",
-            "advancement": {},
-            "crewed": false
-          },
-          "effects": [],
-          "ownership": {
-            "default": 0
-          },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "9db24a52d6885290",
@@ -7432,7 +7338,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -7446,9 +7357,9 @@
       },
       "folder": "3fea03819d0db3b8",
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -7457,7 +7368,6 @@
       "type": "npc",
       "img": "modules/tot-samyi-sup/assets/tokens/goblin.svg",
       "system": {
-        "identifier": "shpyn",
         "abilities": {
           "str": {
             "value": 8,
@@ -7973,7 +7883,8 @@
           "license": "CC-BY-4.0",
           "revision": 1,
           "rules": "2014"
-        }
+        },
+        "identifier": "shpyn"
       },
       "prototypeToken": {
         "name": "Шпынь",
@@ -8063,7 +7974,12 @@
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "sSs3hSzkKBMNBgTs",
@@ -8137,7 +8053,12 @@
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "SxVatHq02vURYDt3",
@@ -8163,157 +8084,12 @@
               "recovery": []
             },
             "type": {
-              "value": "monster",
+              "value": "",
               "subtype": ""
             },
             "requirements": "",
             "properties": [],
-            "activities": {
-              "3Vnkh4NwfhWSFwKy": {
-                "type": "check",
-                "name": "Hide",
-                "_id": "3Vnkh4NwfhWSFwKy",
-                "img": "",
-                "activation": {
-                  "type": "bonus",
-                  "override": false,
-                  "condition": ""
-                },
-                "consumption": {
-                  "scaling": {
-                    "allowed": false
-                  },
-                  "spellSlot": true,
-                  "targets": []
-                },
-                "description": {
-                  "value": "",
-                  "chatFlavor": ""
-                },
-                "duration": {
-                  "units": "inst",
-                  "concentration": false,
-                  "override": false
-                },
-                "effects": [],
-                "flags": {},
-                "range": {
-                  "units": "self",
-                  "override": false,
-                  "special": ""
-                },
-                "target": {
-                  "template": {
-                    "contiguous": false,
-                    "stationary": false,
-                    "units": "ft",
-                    "type": ""
-                  },
-                  "affects": {
-                    "choice": false,
-                    "type": "self"
-                  },
-                  "override": false,
-                  "prompt": true
-                },
-                "uses": {
-                  "spent": 0,
-                  "recovery": [],
-                  "max": ""
-                },
-                "visibility": {
-                  "level": {
-                    "min": null,
-                    "max": null
-                  },
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false,
-                  "identifier": ""
-                },
-                "check": {
-                  "associated": [
-                    "ste"
-                  ],
-                  "dc": {
-                    "calculation": "",
-                    "formula": ""
-                  },
-                  "visible": true,
-                  "ability": "",
-                  "bonus": ""
-                }
-              },
-              "Vgf3UERrWoMNgZ5s": {
-                "type": "utility",
-                "name": "Disengage",
-                "_id": "Vgf3UERrWoMNgZ5s",
-                "img": "",
-                "activation": {
-                  "type": "bonus",
-                  "override": false,
-                  "condition": ""
-                },
-                "consumption": {
-                  "scaling": {
-                    "allowed": false
-                  },
-                  "spellSlot": true,
-                  "targets": []
-                },
-                "description": {
-                  "value": "",
-                  "chatFlavor": ""
-                },
-                "duration": {
-                  "units": "inst",
-                  "concentration": false,
-                  "override": false
-                },
-                "effects": [],
-                "flags": {},
-                "range": {
-                  "units": "self",
-                  "override": false,
-                  "special": ""
-                },
-                "target": {
-                  "template": {
-                    "contiguous": false,
-                    "stationary": false,
-                    "units": "ft",
-                    "type": ""
-                  },
-                  "affects": {
-                    "choice": false,
-                    "type": "self"
-                  },
-                  "override": false,
-                  "prompt": true
-                },
-                "uses": {
-                  "spent": 0,
-                  "recovery": [],
-                  "max": ""
-                },
-                "visibility": {
-                  "level": {
-                    "min": null,
-                    "max": null
-                  },
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false,
-                  "identifier": ""
-                },
-                "roll": {
-                  "prompt": false,
-                  "visible": false,
-                  "name": "",
-                  "formula": ""
-                }
-              }
-            },
+            "activities": {},
             "enchant": {},
             "prerequisites": {
               "level": null
@@ -8324,7 +8100,12 @@
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "S6UTTLu0bEB32HNG",
@@ -8515,7 +8296,12 @@
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "YqS3dsIlpWb2Q2UI",
@@ -8706,7 +8492,12 @@
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -8720,9 +8511,9 @@
       },
       "folder": "3fea03819d0db3b8",
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -8731,7 +8522,6 @@
       "type": "npc",
       "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
       "system": {
-        "identifier": "goroh",
         "abilities": {
           "str": {
             "value": 10,
@@ -9244,7 +9034,8 @@
           "license": "CC-BY-4.0",
           "revision": 1,
           "rules": "2014"
-        }
+        },
+        "identifier": "goroh"
       },
       "prototypeToken": {
         "name": "Горох",
@@ -9302,7 +9093,12 @@
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "swpThURVHnaQRjfY",
@@ -9312,7 +9108,7 @@
           "system": {
             "description": {
               "value": "<p>Рукопашная атака оружием: +2, досягаемость 5 фт., одна цель. Урон 1d4 дробящего.</p>",
-              "chat": "<p>The [[lookup @name]]{monster} attacks with its [[lookup @item.name]].</p>"
+              "chat": "<p>The Acolyte attacks with their Club.</p>"
             },
             "source": {
               "custom": "",
@@ -9393,7 +9189,7 @@
             "properties": [
               "lgt"
             ],
-            "proficient": null,
+            "proficient": 1,
             "unidentified": {
               "description": ""
             },
@@ -9404,7 +9200,8 @@
             "container": null,
             "crewed": false,
             "activities": {
-              "2NqGq0cPTQ6Oi2JY": {
+              "dnd5eactivity000": {
+                "_id": "dnd5eactivity000",
                 "type": "attack",
                 "activation": {
                   "type": "action",
@@ -9421,13 +9218,12 @@
                   "spellSlot": true
                 },
                 "description": {
-                  "chatFlavor": "",
-                  "value": ""
+                  "chatFlavor": ""
                 },
                 "duration": {
                   "concentration": false,
                   "value": "",
-                  "units": "inst",
+                  "units": "",
                   "special": "",
                   "override": false
                 },
@@ -9446,8 +9242,7 @@
                     "size": "",
                     "width": "",
                     "height": "",
-                    "units": "ft",
-                    "stationary": false
+                    "units": ""
                   },
                   "affects": {
                     "count": "",
@@ -9464,15 +9259,15 @@
                   "recovery": []
                 },
                 "attack": {
-                  "ability": "",
+                  "ability": "str",
                   "bonus": "",
                   "critical": {
                     "threshold": null
                   },
                   "flat": false,
                   "type": {
-                    "value": "",
-                    "classification": ""
+                    "value": "melee",
+                    "classification": "weapon"
                   }
                 },
                 "damage": {
@@ -9481,34 +9276,24 @@
                   },
                   "includeBase": true,
                   "parts": []
-                },
-                "img": "",
-                "flags": {},
-                "visibility": {
-                  "level": {
-                    "min": null,
-                    "max": null
-                  },
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false,
-                  "identifier": ""
-                },
-                "_id": "2NqGq0cPTQ6Oi2JY",
-                "name": ""
+                }
               }
             },
             "attuned": false,
             "ammunition": {},
             "magicalBonus": null,
-            "identifier": "club",
-            "mastery": ""
+            "identifier": "club"
           },
           "effects": [],
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "Bnn9Nzajixvow9xi",
@@ -9636,7 +9421,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "n9pJzTDsAwQxJVRl",
@@ -9783,7 +9573,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "MUO1uYN7JR1hm4dR",
@@ -9904,7 +9699,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "8dzaICjGy6mTUaUr",
@@ -10034,12 +9834,47 @@
             {
               "_id": "8rP3gwmXVTgZqYZE",
               "flags": {},
+              "changes": [
+                {
+                  "key": "system.bonuses.abilities.save",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                },
+                {
+                  "key": "system.bonuses.mwak.attack",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                },
+                {
+                  "key": "system.bonuses.msak.attack",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                },
+                {
+                  "key": "system.bonuses.rsak.attack",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                },
+                {
+                  "key": "system.bonuses.rwak.attack",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                }
+              ],
               "disabled": true,
               "duration": {
-                "value": 60,
-                "units": "seconds",
-                "expiry": "turnStart",
-                "expired": false
+                "startTime": null,
+                "seconds": 60,
+                "rounds": 10,
+                "combat": null,
+                "turns": null,
+                "startRound": null,
+                "startTurn": null
               },
               "origin": "Item.kZZAZ6kp9YzgPQEe",
               "tint": "#ffffff",
@@ -10049,48 +9884,23 @@
               "statuses": [],
               "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
               "type": "base",
-              "system": {
-                "changes": [
-                  {
-                    "key": "system.bonuses.abilities.save",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  },
-                  {
-                    "key": "system.bonuses.mwak.attack",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  },
-                  {
-                    "key": "system.bonuses.msak.attack",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  },
-                  {
-                    "key": "system.bonuses.rsak.attack",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  },
-                  {
-                    "key": "system.bonuses.rwak.attack",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  }
-                ]
-              },
-              "start": null,
-              "showIcon": 1
+              "system": {},
+              "_stats": {
+                "coreVersion": "13.351",
+                "systemId": "dnd5e",
+                "systemVersion": "5.3.3"
+              }
             }
           ],
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "gvdA9nPuWLck4tBl",
@@ -10220,7 +10030,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "uUWb1wZgtMou0TVP",
@@ -10354,7 +10169,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -10368,9 +10188,9 @@
       },
       "folder": "3fea03819d0db3b8",
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -10379,7 +10199,6 @@
       "type": "npc",
       "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
       "system": {
-        "identifier": "fasol",
         "abilities": {
           "str": {
             "value": 10,
@@ -10892,7 +10711,8 @@
           "license": "CC-BY-4.0",
           "revision": 1,
           "rules": "2014"
-        }
+        },
+        "identifier": "fasol"
       },
       "prototypeToken": {
         "name": "Фасоль",
@@ -10950,7 +10770,12 @@
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "swpThURVHnaQRjfY",
@@ -10960,7 +10785,7 @@
           "system": {
             "description": {
               "value": "<p>Рукопашная атака оружием: +2, досягаемость 5 фт., одна цель. Урон 1d4 дробящего.</p>",
-              "chat": "<p>The [[lookup @name]]{monster} attacks with its [[lookup @item.name]].</p>"
+              "chat": "<p>The Acolyte attacks with their Club.</p>"
             },
             "source": {
               "custom": "",
@@ -11041,7 +10866,7 @@
             "properties": [
               "lgt"
             ],
-            "proficient": null,
+            "proficient": 1,
             "unidentified": {
               "description": ""
             },
@@ -11052,7 +10877,8 @@
             "container": null,
             "crewed": false,
             "activities": {
-              "2NqGq0cPTQ6Oi2JY": {
+              "dnd5eactivity000": {
+                "_id": "dnd5eactivity000",
                 "type": "attack",
                 "activation": {
                   "type": "action",
@@ -11069,13 +10895,12 @@
                   "spellSlot": true
                 },
                 "description": {
-                  "chatFlavor": "",
-                  "value": ""
+                  "chatFlavor": ""
                 },
                 "duration": {
                   "concentration": false,
                   "value": "",
-                  "units": "inst",
+                  "units": "",
                   "special": "",
                   "override": false
                 },
@@ -11094,8 +10919,7 @@
                     "size": "",
                     "width": "",
                     "height": "",
-                    "units": "ft",
-                    "stationary": false
+                    "units": ""
                   },
                   "affects": {
                     "count": "",
@@ -11112,15 +10936,15 @@
                   "recovery": []
                 },
                 "attack": {
-                  "ability": "",
+                  "ability": "str",
                   "bonus": "",
                   "critical": {
                     "threshold": null
                   },
                   "flat": false,
                   "type": {
-                    "value": "",
-                    "classification": ""
+                    "value": "melee",
+                    "classification": "weapon"
                   }
                 },
                 "damage": {
@@ -11129,34 +10953,24 @@
                   },
                   "includeBase": true,
                   "parts": []
-                },
-                "img": "",
-                "flags": {},
-                "visibility": {
-                  "level": {
-                    "min": null,
-                    "max": null
-                  },
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false,
-                  "identifier": ""
-                },
-                "_id": "2NqGq0cPTQ6Oi2JY",
-                "name": ""
+                }
               }
             },
             "attuned": false,
             "ammunition": {},
             "magicalBonus": null,
-            "identifier": "club",
-            "mastery": ""
+            "identifier": "club"
           },
           "effects": [],
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "Bnn9Nzajixvow9xi",
@@ -11284,7 +11098,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "n9pJzTDsAwQxJVRl",
@@ -11431,7 +11250,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "MUO1uYN7JR1hm4dR",
@@ -11552,7 +11376,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "8dzaICjGy6mTUaUr",
@@ -11682,12 +11511,47 @@
             {
               "_id": "8rP3gwmXVTgZqYZE",
               "flags": {},
+              "changes": [
+                {
+                  "key": "system.bonuses.abilities.save",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                },
+                {
+                  "key": "system.bonuses.mwak.attack",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                },
+                {
+                  "key": "system.bonuses.msak.attack",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                },
+                {
+                  "key": "system.bonuses.rsak.attack",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                },
+                {
+                  "key": "system.bonuses.rwak.attack",
+                  "mode": 2,
+                  "value": "+1d4",
+                  "priority": null
+                }
+              ],
               "disabled": true,
               "duration": {
-                "value": 60,
-                "units": "seconds",
-                "expiry": "turnStart",
-                "expired": false
+                "startTime": null,
+                "seconds": 60,
+                "rounds": 10,
+                "combat": null,
+                "turns": null,
+                "startRound": null,
+                "startTurn": null
               },
               "origin": "Item.kZZAZ6kp9YzgPQEe",
               "tint": "#ffffff",
@@ -11697,48 +11561,23 @@
               "statuses": [],
               "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
               "type": "base",
-              "system": {
-                "changes": [
-                  {
-                    "key": "system.bonuses.abilities.save",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  },
-                  {
-                    "key": "system.bonuses.mwak.attack",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  },
-                  {
-                    "key": "system.bonuses.msak.attack",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  },
-                  {
-                    "key": "system.bonuses.rsak.attack",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  },
-                  {
-                    "key": "system.bonuses.rwak.attack",
-                    "value": "+1d4",
-                    "priority": null,
-                    "type": "add"
-                  }
-                ]
-              },
-              "start": null,
-              "showIcon": 1
+              "system": {},
+              "_stats": {
+                "coreVersion": "13.351",
+                "systemId": "dnd5e",
+                "systemVersion": "5.3.3"
+              }
             }
           ],
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "gvdA9nPuWLck4tBl",
@@ -11868,7 +11707,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "uUWb1wZgtMou0TVP",
@@ -12002,7 +11846,12 @@
           },
           "flags": {},
           "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -12016,9 +11865,9 @@
       },
       "folder": "3fea03819d0db3b8",
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -12027,7 +11876,6 @@
       "type": "npc",
       "img": "modules/tot-samyi-sup/assets/tokens/witch.svg",
       "system": {
-        "identifier": "malusha",
         "abilities": {
           "str": {
             "value": 10,
@@ -12540,7 +12388,8 @@
           "license": "CC-BY-4.0",
           "revision": 1,
           "rules": "2014"
-        }
+        },
+        "identifier": "malusha"
       },
       "prototypeToken": {
         "name": "Малуша",
@@ -12566,7 +12415,7 @@
           "system": {
             "description": {
               "value": "<p>Рукопашная атака оружием: +2, досягаемость 5 фт., одна цель. Урон 1d4 дробящего.</p>",
-              "chat": "<p>The [[lookup @name]]{monster} attacks with its [[lookup @item.name]].</p>"
+              "chat": "<p>The Commoner attacks with their Club.</p>"
             },
             "source": {
               "custom": "",
@@ -12647,7 +12496,7 @@
             "properties": [
               "lgt"
             ],
-            "proficient": null,
+            "proficient": 1,
             "unidentified": {
               "description": ""
             },
@@ -12658,7 +12507,8 @@
             "container": null,
             "crewed": false,
             "activities": {
-              "r3LRWbtePke8RY2r": {
+              "dnd5eactivity000": {
+                "_id": "dnd5eactivity000",
                 "type": "attack",
                 "activation": {
                   "type": "action",
@@ -12675,13 +12525,12 @@
                   "spellSlot": true
                 },
                 "description": {
-                  "chatFlavor": "",
-                  "value": ""
+                  "chatFlavor": ""
                 },
                 "duration": {
                   "concentration": false,
                   "value": "",
-                  "units": "inst",
+                  "units": "",
                   "special": "",
                   "override": false
                 },
@@ -12700,8 +12549,7 @@
                     "size": "",
                     "width": "",
                     "height": "",
-                    "units": "ft",
-                    "stationary": false
+                    "units": ""
                   },
                   "affects": {
                     "count": "",
@@ -12735,29 +12583,24 @@
                   },
                   "includeBase": true,
                   "parts": []
-                },
-                "img": null,
-                "flags": {},
-                "visibility": {
-                  "level": {},
-                  "requireAttunement": false,
-                  "requireIdentification": false,
-                  "requireMagic": false
-                },
-                "_id": "r3LRWbtePke8RY2r"
+                }
               }
             },
             "attuned": false,
             "ammunition": {},
             "magicalBonus": null,
-            "identifier": "club",
-            "mastery": ""
+            "identifier": "club"
           },
           "effects": [],
           "ownership": {
             "default": 0
           },
-          "flags": {}
+          "flags": {},
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -12771,9 +12614,9 @@
       },
       "folder": "3fea03819d0db3b8",
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -12884,7 +12727,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -12917,9 +12765,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13030,7 +12878,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -13063,9 +12916,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13176,7 +13029,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -13209,9 +13067,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13322,7 +13180,12 @@
               "recovery": []
             }
           },
-          "effects": []
+          "effects": [],
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "effects": [],
@@ -13355,9 +13218,9 @@
         }
       },
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       }
     }
   ],
@@ -13446,7 +13309,12 @@
           }
         }
       },
-      "effects": []
+      "effects": [],
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "247b1840d58e777c",
@@ -13472,6 +13340,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13498,6 +13371,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13524,6 +13402,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13550,6 +13433,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13576,6 +13464,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13602,6 +13495,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13628,6 +13526,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13654,6 +13557,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13680,6 +13588,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13706,6 +13619,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13732,6 +13650,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13758,6 +13681,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13784,6 +13712,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13810,6 +13743,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13836,6 +13774,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -13887,7 +13830,8 @@
           "spent": 0
         },
         "activities": {
-          "CmH1aq9qxYEhVGQm": {
+          "dnd5eactivity000": {
+            "_id": "dnd5eactivity000",
             "type": "check",
             "activation": {
               "type": "",
@@ -13904,19 +13848,18 @@
               "spellSlot": true
             },
             "description": {
-              "chatFlavor": "",
-              "value": ""
+              "chatFlavor": ""
             },
             "duration": {
               "concentration": false,
               "value": "",
-              "units": "inst",
+              "units": "",
               "special": "",
               "override": false
             },
             "effects": [],
             "range": {
-              "units": "self",
+              "units": "",
               "special": "",
               "override": false
             },
@@ -13928,8 +13871,7 @@
                 "size": "",
                 "width": "",
                 "height": "",
-                "units": "ft",
-                "stationary": false
+                "units": ""
               },
               "affects": {
                 "count": "",
@@ -13942,34 +13884,12 @@
             },
             "check": {
               "ability": "wis",
-              "dc": {
-                "calculation": "",
-                "formula": ""
-              },
-              "associated": [],
-              "visible": true,
-              "bonus": ""
+              "dc": {}
             },
             "uses": {
               "spent": 0,
-              "recovery": [],
-              "max": ""
-            },
-            "img": "",
-            "behaviors": [],
-            "flags": {},
-            "visibility": {
-              "level": {
-                "min": null,
-                "max": null
-              },
-              "requireAttunement": false,
-              "requireIdentification": false,
-              "requireMagic": false,
-              "identifier": ""
-            },
-            "_id": "CmH1aq9qxYEhVGQm",
-            "name": "Use Tools"
+              "recovery": []
+            }
           }
         },
         "attuned": false,
@@ -13980,7 +13900,12 @@
         "default": 0
       },
       "flags": {},
-      "folder": "8491d5ceaa99b95c"
+      "folder": "8491d5ceaa99b95c",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "c78ebc7422636d86",
@@ -14002,6 +13927,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -14024,6 +13954,11 @@
           "custom": "Тот Самый Суп",
           "rules": "2014"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     }
   ],
@@ -14056,6 +13991,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14073,6 +14013,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14090,6 +14035,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14107,6 +14057,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14124,6 +14079,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14141,6 +14101,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14158,6 +14123,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14175,6 +14145,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14192,6 +14167,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14209,6 +14189,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14226,6 +14211,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14243,6 +14233,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14260,6 +14255,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14277,6 +14277,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14294,10 +14299,20 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
-      "sort": 0
+      "sort": 0,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "6c5be0e25cf049d9",
@@ -14327,6 +14342,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14344,6 +14364,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14361,6 +14386,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14378,6 +14408,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14395,6 +14430,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14412,10 +14452,20 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
-      "sort": 100000
+      "sort": 100000,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "f2f17d9b368d52b2",
@@ -14445,6 +14495,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14462,6 +14517,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14479,6 +14539,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14496,10 +14561,20 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
-      "sort": 200000
+      "sort": 200000,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "89343e2eff79de6f",
@@ -14525,10 +14600,15 @@
           },
           "text": {
             "format": 1,
-            "content": "<div class=\"tss-journal\"><h2>Тот Самый Суп</h2><figure><img src=\"modules/tot-samyi-sup/assets/art/elena-mikhailova-halloween-em.jpg\" alt=\"Иллюстрация очага с котлом — Elena Kravets\"/><figcaption>Иллюстрация © <a href=\"https://www.artstation.com/elenamikhailova\" target=\"_blank\" rel=\"noopener noreferrer\">Elena Kravets</a></figcaption></figure><p>Ваншот для 3–5 персонажей 4-го уровня, 4–5 часов. Чёрная комедия и смертельный турнир. Модуль сохраняет правила 2014 года и авторские статблоки, используя формат Foundry VTT 14 / dnd5e 6.0.0.</p><ol><li>Импортируйте приключение из одноимённого компендия. Не переимпортируйте его посреди игры: штатный повторный импорт может заменить документы.</li><li>Откройте макрос «Панель ведущего». Все журналы по умолчанию доступны только ведущему.</li><li>В панели выберите персонажей группы, сложность и тур. Кнопка подготовки открывает сцену и создаёт токены выбранных персонажей. Они связаны с исходными листами; расход ресурсов сохраняется.</li><li>Создайте бой кнопкой панели. Инициативу и начало боя ведите обычными средствами Foundry. Таймер сообщает об окончании десяти раундов.</li><li>Добычу фиксируйте после добивающего удара. Введите хиты до удара вместе с временными, фактический урон после сопротивлений и тип. Затем отметьте, кто подобрал продукт.</li><li>Перед готовкой выберите нужные ингредиенты в окне броска. Лишняя добыча не обязана попадать в блюдо.</li></ol><h3>Журналы</h3><p>@UUID[JournalEntry.0e9e3b10e7843de4]{01 · Приключение} · @UUID[JournalEntry.6c5be0e25cf049d9]{02 · Зоны Кухни-на-Меже} · @UUID[JournalEntry.f2f17d9b368d52b2]{03 · Материалы для игроков}</p><h3>Что показать игрокам</h3><p>Материалы для игроков закрыты до вашего решения. Открывайте конкретную страницу и используйте штатную кнопку показа. Не выдавайте доступ ко всему журналу заранее: договор и видение раскрывают загадку.</p><h3>Карта ведущего</h3><img src=\"modules/tot-samyi-sup/assets/maps/kitchen-gm.webp\" alt=\"Исходная карта с подписями\"/><p>В сцене использована версия без подписей, извлечённая из DOCX. У неё ниже исходное разрешение. Масштаб исходного JSON уменьшен до 7500×3500, сетка — 100 пикселей / 5 футов; 20 стен и 47 источников света перенесены.</p></div>"
+            "content": "<div class=\"tss-journal\"><h2>Тот Самый Суп</h2><figure><img src=\"modules/tot-samyi-sup/assets/art/elena-mikhailova-halloween-em.jpg\" alt=\"Иллюстрация очага с котлом — Elena Kravets\"/><figcaption>Иллюстрация © <a href=\"https://www.artstation.com/elenamikhailova\" target=\"_blank\" rel=\"noopener noreferrer\">Elena Kravets</a></figcaption></figure><p>Ваншот для 3–5 персонажей 4-го уровня, 4–5 часов. Чёрная комедия и смертельный турнир. Модуль сохраняет правила 2014 года и авторские статблоки, используя формат Foundry VTT 13.351 / dnd5e 5.3.3 и Foundry VTT 14 / dnd5e 5.3.3 или 6.</p><ol><li>Импортируйте приключение из одноимённого компендия. Не переимпортируйте его посреди игры: штатный повторный импорт может заменить документы.</li><li>Откройте макрос «Панель ведущего». Все журналы по умолчанию доступны только ведущему.</li><li>В панели выберите персонажей группы, сложность и тур. Кнопка подготовки открывает сцену и создаёт токены выбранных персонажей. Они связаны с исходными листами; расход ресурсов сохраняется.</li><li>Создайте бой кнопкой панели. Инициативу и начало боя ведите обычными средствами Foundry. Таймер сообщает об окончании десяти раундов.</li><li>Добычу фиксируйте после добивающего удара. Введите хиты до удара вместе с временными, фактический урон после сопротивлений и тип. Затем отметьте, кто подобрал продукт.</li><li>Перед готовкой выберите нужные ингредиенты в окне броска. Лишняя добыча не обязана попадать в блюдо.</li></ol><h3>Журналы</h3><p>@UUID[JournalEntry.0e9e3b10e7843de4]{01 · Приключение} · @UUID[JournalEntry.6c5be0e25cf049d9]{02 · Зоны Кухни-на-Меже} · @UUID[JournalEntry.f2f17d9b368d52b2]{03 · Материалы для игроков}</p><h3>Что показать игрокам</h3><p>Материалы для игроков закрыты до вашего решения. Открывайте конкретную страницу и используйте штатную кнопку показа. Не выдавайте доступ ко всему журналу заранее: договор и видение раскрывают загадку.</p><h3>Карта ведущего</h3><img src=\"modules/tot-samyi-sup/assets/maps/kitchen-gm.webp\" alt=\"Исходная карта с подписями\"/><p>В сцене использована версия без подписей, извлечённая из DOCX. У неё ниже исходное разрешение. Масштаб исходного JSON уменьшен до 7500×3500, сетка — 100 пикселей / 5 футов; 20 стен и 47 источников света перенесены.</p></div>"
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14546,6 +14626,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14563,6 +14648,11 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14576,10 +14666,15 @@
           },
           "text": {
             "format": 1,
-            "content": "<div class=\"tss-journal\"><h2>Что делает модуль</h2><p>Штатный компендий Adventure, оригинальный текст по главам, точки зон, раздаточные страницы, авторские монстры, соперники, предметы, три набора боя, шаблон призрака и панель учёта турнира. Атаки, урон и спасброски используют Activities системы dnd5e.</p><p>Панель хранит добычу, выбранную группу, состояние соперников и результаты туров в настройке мира. Сброс турнира очищает только этот учёт. Он не лечит существ, не удаляет токены и не восстанавливает потраченные предметы.</p><p>Порча фиксируется ведущим: обычное обновление хитов не содержит надёжно тип и величину добивающего урона, особенно при смешанном уроне и временных хитах. При смешанном добивающем ударе наличие кислоты, некротической энергии или яда трактуется как порча. Введённый урон должен уже учитывать иммунитеты и сопротивления.</p><p>Захваты, перемещения в котёл, состояния и их окончание, преимущество Ненасытной, реакции мандрагор, условия роя, ножи логова, потеря воспоминаний, смерть и воскрешение разрешает ведущий. Способности содержат текст и броски; универсальная автоматизация боя и Midi-QOL не требуются.</p><p>Версии сверены по официальным источникам 25.10.2026: Foundry 14.369, dnd5e 6.0.0. Проверки сборки и механик выполнены вне игрового сервера. Полный импорт и игровая сессия в запущенном Foundry не проверены. Для проверки внутри вашего мира предусмотрена кнопка диагностики, которая вызывает настоящую валидацию документов Foundry и выводит ошибки ведущему.</p></div>"
+            "content": "<div class=\"tss-journal\"><h2>Что делает модуль</h2><p>Штатный компендий Adventure, оригинальный текст по главам, точки зон, раздаточные страницы, авторские монстры, соперники, предметы, три набора боя, шаблон призрака и панель учёта турнира. Атаки, урон и спасброски используют Activities системы dnd5e.</p><p>Панель хранит добычу, выбранную группу, состояние соперников и результаты туров в настройке мира. Сброс турнира очищает только этот учёт. Он не лечит существ, не удаляет токены и не восстанавливает потраченные предметы.</p><p>Порча фиксируется ведущим: обычное обновление хитов не содержит надёжно тип и величину добивающего урона, особенно при смешанном уроне и временных хитах. При смешанном добивающем ударе наличие кислоты, некротической энергии или яда трактуется как порча. Введённый урон должен уже учитывать иммунитеты и сопротивления.</p><p>Захваты, перемещения в котёл, состояния и их окончание, преимущество Ненасытной, реакции мандрагор, условия роя, ножи логова, потеря воспоминаний, смерть и воскрешение разрешает ведущий. Способности содержат текст и броски; универсальная автоматизация боя и Midi-QOL не требуются.</p><p>Целевые связки: Foundry 13.351 / dnd5e 5.3.3 и Foundry 14 / dnd5e 5.3.3 или 6. Данные используют формат 13.351 / 5.3.3; новая версия движка преобразует их при загрузке. Версии сверены 26.10.2026. Проверки сборки и механик выполнены вне игрового сервера. Полный импорт и игровая сессия в запущенном Foundry не проверены. Для проверки внутри вашего мира предусмотрена кнопка диагностики, которая вызывает настоящую валидацию документов Foundry и выводит ошибки ведущему.</p></div>"
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14597,10 +14692,20 @@
           },
           "ownership": {
             "default": -1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
-      "sort": 300000
+      "sort": 300000,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     }
   ],
   "scenes": [
@@ -14627,21 +14732,10 @@
         "y": 1750.0,
         "scale": 0.25
       },
-      "initialLevel": "2c537d2ee27dc34b",
-      "levels": [
-        {
-          "_id": "2c537d2ee27dc34b",
-          "name": "Кухня-на-Меже",
-          "elevation": {
-            "bottom": 0,
-            "top": 20
-          },
-          "background": {
-            "src": "modules/tot-samyi-sup/assets/maps/kitchen-players.webp",
-            "color": 2107428
-          }
-        }
-      ],
+      "background": {
+        "src": "modules/tot-samyi-sup/assets/maps/kitchen-players.webp"
+      },
+      "backgroundColor": "#202824",
       "environment": {
         "darknessLevel": 0.3,
         "globalLight": {
@@ -14650,7 +14744,7 @@
       },
       "tokenVision": true,
       "fog": {
-        "mode": 1
+        "exploration": true
       },
       "ownership": {
         "default": 0
@@ -14684,12 +14778,17 @@
           "x": 4075,
           "y": 1750,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-0",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14711,12 +14810,17 @@
           "x": 3420,
           "y": 2400,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-1",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14738,12 +14842,17 @@
           "x": 3520,
           "y": 2400,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-2",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14765,12 +14874,17 @@
           "x": 3750,
           "y": 2400,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-3",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14792,12 +14906,17 @@
           "x": 3850,
           "y": 2400,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-4",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14819,12 +14938,17 @@
           "x": 4070,
           "y": 2400,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-5",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14846,12 +14970,17 @@
           "x": 4170,
           "y": 2400,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-6",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14876,12 +15005,17 @@
           "x": 3300,
           "y": 1120,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-7",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14906,12 +15040,17 @@
           "x": 3500,
           "y": 1120,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-8",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -14936,12 +15075,17 @@
           "x": 3700,
           "y": 1120,
           "hidden": false,
-          "level": "2c537d2ee27dc34b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "kitchen-9",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
@@ -14960,7 +15104,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "da03a89c4684c6b9",
@@ -14976,7 +15125,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "bf57a97e0ae55d43",
@@ -14992,7 +15146,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "dd19421118b3a7b4",
@@ -15008,7 +15167,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "db47a14bb7321de9",
@@ -15024,7 +15188,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "33d95aaa3ac65911",
@@ -15040,7 +15209,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "e6e27f2738eb8520",
@@ -15056,7 +15230,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "df40e89d2ef79b15",
@@ -15072,7 +15251,12 @@
           "sound": 20,
           "door": 1,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "1498bdf05a8329f1",
@@ -15088,7 +15272,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "f9ba431295c8766b",
@@ -15104,7 +15293,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "2c0500834f76b22b",
@@ -15120,7 +15314,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "77270e3070228914",
@@ -15136,7 +15335,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "92910ea7f821ce8e",
@@ -15152,7 +15356,12 @@
           "sound": 20,
           "door": 1,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "45465922a7fcdce9",
@@ -15168,7 +15377,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "3d247d9615198061",
@@ -15184,7 +15398,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "2e42779d91a556d9",
@@ -15200,7 +15419,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "c7d8e857cb68ad19",
@@ -15216,7 +15440,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "a0e5f73aa930e4d2",
@@ -15232,7 +15461,12 @@
           "sound": 20,
           "door": 1,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "7e2cc6f2e891e0af",
@@ -15248,7 +15482,12 @@
           "sound": 20,
           "door": 1,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "22cc78664dc7d40a",
@@ -15264,7 +15503,12 @@
           "sound": 20,
           "door": 0,
           "ds": 0,
-          "dir": 0
+          "dir": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "lights": [
@@ -15283,7 +15527,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "1bc44349f258e283",
@@ -15300,7 +15549,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "27f145194bd3e124",
@@ -15317,7 +15571,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "9984856c221cedbe",
@@ -15334,7 +15593,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "bc4d3fe997e82058",
@@ -15351,7 +15615,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "b048a9cf73d91bbe",
@@ -15368,7 +15637,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "ca6a551b5822a109",
@@ -15385,7 +15659,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "bd16765d70649724",
@@ -15402,7 +15681,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "53753108eb9214a3",
@@ -15419,7 +15703,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "8b46d2c9f082ed40",
@@ -15436,7 +15725,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "8121e3b453c4d050",
@@ -15453,7 +15747,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "b1f2c9765a4d2bf3",
@@ -15470,7 +15769,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "b3e952b1276bc62b",
@@ -15487,7 +15791,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "42b62cbca11447b8",
@@ -15504,7 +15813,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "01b06d5fce19da4b",
@@ -15521,7 +15835,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "75044e09a330146b",
@@ -15538,7 +15857,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "e8448b24c2857be5",
@@ -15555,7 +15879,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "f96cb4fb6885d421",
@@ -15572,7 +15901,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "32cf7b36f9f131ef",
@@ -15589,7 +15923,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "18b32fe84329d528",
@@ -15606,7 +15945,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "a373089a0c49635c",
@@ -15623,7 +15967,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "42c58ad3d6033a72",
@@ -15640,7 +15989,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "c1c600232372e32a",
@@ -15657,7 +16011,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "7b95acefb7e3ca51",
@@ -15674,7 +16033,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "7841963ab1a2f881",
@@ -15691,7 +16055,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "1d4087904aef7b87",
@@ -15708,7 +16077,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "dedffbbd16529aee",
@@ -15725,7 +16099,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "9c360f1064ed1d6f",
@@ -15742,7 +16121,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "417e530cee1065df",
@@ -15759,7 +16143,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "743cf7799125a3d1",
@@ -15776,7 +16165,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "228f91977f151713",
@@ -15793,7 +16187,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "57c979f872833f07",
@@ -15810,7 +16209,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "022f3195e43e80f2",
@@ -15827,7 +16231,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "c8fc40ab2009f8f3",
@@ -15844,7 +16253,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "beb2b58d2fbc0833",
@@ -15861,7 +16275,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "25fc1b133de4d896",
@@ -15878,7 +16297,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "cd9560d88c8205e7",
@@ -15895,7 +16319,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "e51c4fe24bbfb284",
@@ -15912,7 +16341,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "9c940b663520dcb0",
@@ -15929,7 +16363,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "9cb6a5e50c9fd294",
@@ -15946,7 +16385,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "fb6fb6818d2ef340",
@@ -15963,7 +16407,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "1f881f6847af22ef",
@@ -15980,7 +16429,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "4c0d63dee0491683",
@@ -15997,7 +16451,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "075b3074eacd3d6e",
@@ -16014,7 +16473,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "b35a120ef0e8c9fb",
@@ -16031,7 +16495,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "bfc9411cd84f88bb",
@@ -16048,7 +16517,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "45fed51d6eeaf8db",
@@ -16065,7 +16539,12 @@
               "intensity": 3
             }
           },
-          "hidden": false
+          "hidden": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "notes": [
@@ -16082,7 +16561,12 @@
           "iconSize": 45,
           "fontSize": 24,
           "textColor": "#ead7ab",
-          "global": false
+          "global": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "ea503d892f34f029",
@@ -16097,7 +16581,12 @@
           "iconSize": 45,
           "fontSize": 24,
           "textColor": "#ead7ab",
-          "global": false
+          "global": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "813ea37e5c7cb6e3",
@@ -16112,7 +16601,12 @@
           "iconSize": 45,
           "fontSize": 24,
           "textColor": "#ead7ab",
-          "global": false
+          "global": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "0230dfd73fea8e01",
@@ -16127,7 +16621,12 @@
           "iconSize": 45,
           "fontSize": 24,
           "textColor": "#ead7ab",
-          "global": false
+          "global": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "23fa7d70a2b96f4b",
@@ -16142,7 +16641,12 @@
           "iconSize": 45,
           "fontSize": 24,
           "textColor": "#ead7ab",
-          "global": false
+          "global": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "19fb898b1e83d411",
@@ -16157,15 +16661,20 @@
           "iconSize": 45,
           "fontSize": 24,
           "textColor": "#ead7ab",
-          "global": false
+          "global": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "journal": "6c5be0e25cf049d9",
       "sort": 0,
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       },
       "thumb": "modules/tot-samyi-sup/assets/maps/kitchen-thumb.webp"
     },
@@ -16192,21 +16701,10 @@
         "y": 1050.0,
         "scale": 0.45
       },
-      "initialLevel": "195d229d0ff51e8b",
-      "levels": [
-        {
-          "_id": "195d229d0ff51e8b",
-          "name": "Кладовая",
-          "elevation": {
-            "bottom": 0,
-            "top": 20
-          },
-          "background": {
-            "src": "modules/tot-samyi-sup/assets/maps/pantry.svg",
-            "color": 2107428
-          }
-        }
-      ],
+      "background": {
+        "src": "modules/tot-samyi-sup/assets/maps/pantry.svg"
+      },
+      "backgroundColor": "#202824",
       "environment": {
         "darknessLevel": 0.3,
         "globalLight": {
@@ -16215,7 +16713,7 @@
       },
       "tokenVision": true,
       "fog": {
-        "mode": 1
+        "exploration": true
       },
       "ownership": {
         "default": 0
@@ -16271,12 +16769,17 @@
           "x": 1050,
           "y": 900,
           "hidden": false,
-          "level": "195d229d0ff51e8b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round1-0",
               "ingredient": "pumpkin"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16301,12 +16804,17 @@
           "x": 2250,
           "y": 1500,
           "hidden": false,
-          "level": "195d229d0ff51e8b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round1-1",
               "ingredient": "pumpkin"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16331,12 +16839,17 @@
           "x": 1200,
           "y": 450,
           "hidden": false,
-          "level": "195d229d0ff51e8b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round1-2",
               "ingredient": "mandrake"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16361,12 +16874,17 @@
           "x": 1800,
           "y": 900,
           "hidden": false,
-          "level": "195d229d0ff51e8b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round1-3",
               "ingredient": "mandrake"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16391,12 +16909,17 @@
           "x": 2400,
           "y": 450,
           "hidden": false,
-          "level": "195d229d0ff51e8b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round1-4",
               "ingredient": "mandrake"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16421,12 +16944,17 @@
           "x": 2250,
           "y": 1050,
           "hidden": false,
-          "level": "195d229d0ff51e8b",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round1-5",
               "ingredient": "onion"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
@@ -16443,7 +16971,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "39c8ab1911868b38",
@@ -16457,7 +16990,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "ce5da9de614e3fbc",
@@ -16471,7 +17009,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "17da5703a9df5eea",
@@ -16485,7 +17028,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "26dc0ea873bc5a4b",
@@ -16499,7 +17047,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "027221b27240a6f0",
@@ -16513,7 +17066,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "lights": [
@@ -16526,6 +17084,11 @@
             "dim": 120,
             "color": "#a7bc82",
             "alpha": 0.1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16537,6 +17100,11 @@
             "dim": 120,
             "color": "#a7bc82",
             "alpha": 0.1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
@@ -16552,7 +17120,12 @@
             "src": "icons/svg/door-exit.svg"
           },
           "iconSize": 40,
-          "fontSize": 22
+          "fontSize": 22,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "aeb09cdc8c879ccd",
@@ -16565,15 +17138,20 @@
             "src": "icons/svg/door-exit.svg"
           },
           "iconSize": 40,
-          "fontSize": 22
+          "fontSize": 22,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "journal": "6c5be0e25cf049d9",
       "sort": 100000,
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       },
       "thumb": "modules/tot-samyi-sup/assets/maps/pantry-thumb.webp"
     },
@@ -16600,21 +17178,10 @@
         "y": 1050.0,
         "scale": 0.45
       },
-      "initialLevel": "394fb47d83e950da",
-      "levels": [
-        {
-          "_id": "394fb47d83e950da",
-          "name": "Кладовая",
-          "elevation": {
-            "bottom": 0,
-            "top": 20
-          },
-          "background": {
-            "src": "modules/tot-samyi-sup/assets/maps/pantry.svg",
-            "color": 2107428
-          }
-        }
-      ],
+      "background": {
+        "src": "modules/tot-samyi-sup/assets/maps/pantry.svg"
+      },
+      "backgroundColor": "#202824",
       "environment": {
         "darknessLevel": 0.3,
         "globalLight": {
@@ -16623,7 +17190,7 @@
       },
       "tokenVision": true,
       "fog": {
-        "mode": 1
+        "exploration": true
       },
       "ownership": {
         "default": 0
@@ -16679,12 +17246,17 @@
           "x": 1800,
           "y": 900,
           "hidden": false,
-          "level": "394fb47d83e950da",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round2-0",
               "ingredient": "ham"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16709,12 +17281,17 @@
           "x": 1050,
           "y": 900,
           "hidden": false,
-          "level": "394fb47d83e950da",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round2-1",
               "ingredient": "cabbage"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16739,12 +17316,17 @@
           "x": 1800,
           "y": 1500,
           "hidden": false,
-          "level": "394fb47d83e950da",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round2-2",
               "ingredient": "cabbage"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16769,12 +17351,17 @@
           "x": 2250,
           "y": 450,
           "hidden": false,
-          "level": "394fb47d83e950da",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round2-3",
               "ingredient": "cabbage"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16796,12 +17383,17 @@
           "x": 2400,
           "y": 1500,
           "hidden": false,
-          "level": "394fb47d83e950da",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round2-4",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16823,12 +17415,17 @@
           "x": 2550,
           "y": 1650,
           "hidden": false,
-          "level": "394fb47d83e950da",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "round2-5",
               "ingredient": null
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
@@ -16845,7 +17442,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "bfb463ae54698ba4",
@@ -16859,7 +17461,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "c75e983a762c3ea8",
@@ -16873,7 +17480,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "6c15755ae5000a2d",
@@ -16887,7 +17499,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "d4bb62944a1b0a67",
@@ -16901,7 +17518,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "5e4f142585114570",
@@ -16915,7 +17537,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "lights": [
@@ -16928,6 +17555,11 @@
             "dim": 120,
             "color": "#a7bc82",
             "alpha": 0.1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -16939,6 +17571,11 @@
             "dim": 120,
             "color": "#a7bc82",
             "alpha": 0.1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
@@ -16954,7 +17591,12 @@
             "src": "icons/svg/door-exit.svg"
           },
           "iconSize": 40,
-          "fontSize": 22
+          "fontSize": 22,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "84aeb7fd6c02baf2",
@@ -16967,15 +17609,20 @@
             "src": "icons/svg/door-exit.svg"
           },
           "iconSize": 40,
-          "fontSize": 22
+          "fontSize": 22,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "journal": "6c5be0e25cf049d9",
       "sort": 200000,
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       },
       "thumb": "modules/tot-samyi-sup/assets/maps/pantry-thumb.webp"
     },
@@ -17002,21 +17649,10 @@
         "y": 1050.0,
         "scale": 0.45
       },
-      "initialLevel": "f95c9a35e2ac4a24",
-      "levels": [
-        {
-          "_id": "f95c9a35e2ac4a24",
-          "name": "Кладовая",
-          "elevation": {
-            "bottom": 0,
-            "top": 20
-          },
-          "background": {
-            "src": "modules/tot-samyi-sup/assets/maps/pantry.svg",
-            "color": 2107428
-          }
-        }
-      ],
+      "background": {
+        "src": "modules/tot-samyi-sup/assets/maps/pantry.svg"
+      },
+      "backgroundColor": "#202824",
       "environment": {
         "darknessLevel": 0.3,
         "globalLight": {
@@ -17025,7 +17661,7 @@
       },
       "tokenVision": true,
       "fog": {
-        "mode": 1
+        "exploration": true
       },
       "ownership": {
         "default": 0
@@ -17081,12 +17717,17 @@
           "x": 2400,
           "y": 450,
           "hidden": true,
-          "level": "f95c9a35e2ac4a24",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "final-0",
               "ingredient": "bone"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -17111,12 +17752,17 @@
           "x": 150,
           "y": 900,
           "hidden": false,
-          "level": "f95c9a35e2ac4a24",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "final-1",
               "ingredient": "bread"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -17141,12 +17787,17 @@
           "x": 2400,
           "y": 1500,
           "hidden": false,
-          "level": "f95c9a35e2ac4a24",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "final-2",
               "ingredient": "nettle"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -17171,12 +17822,17 @@
           "x": 1800,
           "y": 900,
           "hidden": false,
-          "level": "f95c9a35e2ac4a24",
+          "elevation": 0,
           "flags": {
             "tot-samyi-sup": {
               "key": "final-3",
               "ingredient": "onion"
             }
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
@@ -17193,7 +17849,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "93ff8afe1249616e",
@@ -17207,7 +17868,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "f71c5928bbb0b570",
@@ -17221,7 +17887,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "a3f5a51171f6f6a3",
@@ -17235,7 +17906,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "29ca5652e5e79b5a",
@@ -17249,7 +17925,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "f8cf8dd5b40c6420",
@@ -17263,7 +17944,12 @@
           "sight": 20,
           "light": 20,
           "sound": 20,
-          "door": 0
+          "door": 0,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "lights": [
@@ -17276,6 +17962,11 @@
             "dim": 120,
             "color": "#a7bc82",
             "alpha": 0.1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         },
         {
@@ -17287,6 +17978,11 @@
             "dim": 120,
             "color": "#a7bc82",
             "alpha": 0.1
+          },
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
           }
         }
       ],
@@ -17302,7 +17998,12 @@
             "src": "icons/svg/door-exit.svg"
           },
           "iconSize": 40,
-          "fontSize": 22
+          "fontSize": 22,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "dc8e0f633f9763d9",
@@ -17315,15 +18016,20 @@
             "src": "icons/svg/door-exit.svg"
           },
           "iconSize": 40,
-          "fontSize": 22
+          "fontSize": 22,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
       ],
       "journal": "6c5be0e25cf049d9",
       "sort": 300000,
       "_stats": {
-        "coreVersion": "14.369",
+        "coreVersion": "13.351",
         "systemId": "dnd5e",
-        "systemVersion": "6.0.0"
+        "systemVersion": "5.3.3"
       },
       "thumb": "modules/tot-samyi-sup/assets/maps/pantry-thumb.webp"
     }
@@ -17344,6 +18050,11 @@
         "tot-samyi-sup": {
           "key": "panel"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -17361,6 +18072,11 @@
         "tot-samyi-sup": {
           "key": "guide"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     },
     {
@@ -17378,6 +18094,11 @@
         "tot-samyi-sup": {
           "key": "diagnose"
         }
+      },
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
       }
     }
   ],
@@ -17405,7 +18126,12 @@
             1,
             1
           ],
-          "drawn": false
+          "drawn": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "75a9ee08d09be521",
@@ -17417,7 +18143,12 @@
             2,
             2
           ],
-          "drawn": false
+          "drawn": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "13212c94912def9c",
@@ -17429,7 +18160,12 @@
             3,
             3
           ],
-          "drawn": false
+          "drawn": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "7d636ecb3e9904ba",
@@ -17441,7 +18177,12 @@
             4,
             4
           ],
-          "drawn": false
+          "drawn": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "d0cd13a1bf774fcf",
@@ -17453,7 +18194,12 @@
             5,
             5
           ],
-          "drawn": false
+          "drawn": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "29d7f4f79c805b98",
@@ -17465,9 +18211,19 @@
             6,
             6
           ],
-          "drawn": false
+          "drawn": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
-      ]
+      ],
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "eb754c2c4384cd5d",
@@ -17492,7 +18248,12 @@
             1,
             1
           ],
-          "drawn": false
+          "drawn": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "47e99c8c3758b024",
@@ -17504,7 +18265,12 @@
             2,
             2
           ],
-          "drawn": false
+          "drawn": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         },
         {
           "_id": "c8cd5eda0f453e33",
@@ -17516,9 +18282,19 @@
             3,
             3
           ],
-          "drawn": false
+          "drawn": false,
+          "_stats": {
+            "coreVersion": "13.351",
+            "systemId": "dnd5e",
+            "systemVersion": "5.3.3"
+          }
         }
-      ]
+      ],
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     }
   ],
   "folders": [
@@ -17528,7 +18304,12 @@
       "type": "Actor",
       "color": "#8c5738",
       "sorting": "m",
-      "folder": null
+      "folder": null,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "8491d5ceaa99b95c",
@@ -17536,7 +18317,12 @@
       "type": "Item",
       "color": "#8c5738",
       "sorting": "m",
-      "folder": null
+      "folder": null,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "744f104ba399e4b1",
@@ -17544,7 +18330,12 @@
       "type": "JournalEntry",
       "color": "#8c5738",
       "sorting": "m",
-      "folder": null
+      "folder": null,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "7d4c3dcccdd69602",
@@ -17552,7 +18343,12 @@
       "type": "Scene",
       "color": "#8c5738",
       "sorting": "m",
-      "folder": null
+      "folder": null,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "19a1a399cfbaa5fb",
@@ -17560,7 +18356,12 @@
       "type": "Macro",
       "color": "#8c5738",
       "sorting": "m",
-      "folder": null
+      "folder": null,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     },
     {
       "_id": "5d160316dc8a068b",
@@ -17568,7 +18369,12 @@
       "type": "RollTable",
       "color": "#8c5738",
       "sorting": "m",
-      "folder": null
+      "folder": null,
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": "dnd5e",
+        "systemVersion": "5.3.3"
+      }
     }
   ],
   "combats": [],
@@ -17576,12 +18382,12 @@
   "playlists": [],
   "flags": {
     "tot-samyi-sup": {
-      "version": "1.0.1"
+      "version": "1.1.0"
     }
   },
   "_stats": {
-    "coreVersion": "14.369",
+    "coreVersion": "13.351",
     "systemId": "dnd5e",
-    "systemVersion": "6.0.0"
+    "systemVersion": "5.3.3"
   }
 }

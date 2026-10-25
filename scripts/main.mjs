@@ -1,4 +1,5 @@
 import {spoilage,cooking,finalVerdict,rankTeams,scaledRoster,hagHP} from './rules.mjs';
+import {tokenPlacement,compatibilityIssue} from './compat.mjs';
 const ID='tot-samyi-sup', BASE=`modules/${ID}`;
 let index, panel;
 const clone=o=>foundry.utils.deepClone(o);
@@ -109,7 +110,7 @@ class SoupPanel extends foundry.applications.api.HandlebarsApplicationMixin(foun
    for(const [key,n] of need)for(let i=0;i<n;i++){
     const a=moduleActor(key);if(!a)throw new Error(`Не найдено существо: ${key}`);
     const t=clone(a.prototypeToken.toObject());delete t._id;
-    extra.push({...t,actorId:a.id,actorLink:false,x:2550,y:750+i*150,level:scene.firstLevel.id,flags:{[ID]:{ingredient:key,extra:true}}});
+    extra.push({...t,actorId:a.id,actorLink:false,x:2550,y:750+i*150,...tokenPlacement(scene,game.release.generation),flags:{[ID]:{ingredient:key,extra:true}}});
    }
    if(extra.length)await scene.createEmbeddedDocuments('Token',extra);
    await scene.setFlag(ID,'prepared',true);
@@ -124,7 +125,7 @@ class SoupPanel extends foundry.applications.api.HandlebarsApplicationMixin(foun
   for(const a of party(s)){
    if(scene.tokens.some(t=>t.actorId===a.id&&t.getFlag(ID,'party')))continue;
    const t=clone(a.prototypeToken.toObject());delete t._id;
-   const p=positions[i++%positions.length];create.push({...t,actorId:a.id,actorLink:true,x:p.x,y:p.y,level:scene.firstLevel.id,disposition:1,hidden:false,flags:{[ID]:{party:true}}});
+   const p=positions[i++%positions.length];create.push({...t,actorId:a.id,actorLink:true,x:p.x,y:p.y,...tokenPlacement(scene,game.release.generation),disposition:1,hidden:false,flags:{[ID]:{party:true}}});
   }
   if(create.length)await scene.createEmbeddedDocuments('Token',create);
  }
@@ -260,9 +261,11 @@ Hooks.once('init',()=>{
 Hooks.once('ready',async()=>{
  if(!game.user.isGM||game.system.id!=='dnd5e')return;
  try{
+  const issue=compatibilityIssue(game.version,game.system.version);
+  if(issue){ui.notifications.error(issue,{permanent:true});return;}
   await loadIndex();
   if(!game.settings.get(ID,'welcomeSeen')){
-   await whisper(`<h3>Тот Самый Суп</h3><p>Откройте «Компендии → Тот Самый Суп · Приключение» и импортируйте приключение. Затем откройте журнал «00 · Начните здесь» или макрос «Панель ведущего». Панель также доступна в настройках модуля.</p><p>Сборка рассчитана на Foundry 14.369 и dnd5e 6.0.0. Проверка в работающем Foundry доступна кнопкой «Диагностика».</p>`);
+   await whisper(`<h3>Тот Самый Суп</h3><p>Откройте «Компендии → Тот Самый Суп · Приключение» и импортируйте приключение. Затем откройте журнал «00 · Начните здесь» или макрос «Панель ведущего». Панель также доступна в настройках модуля.</p><p>Поддерживаемые связки: Foundry 13.351 / dnd5e 5.3.3 и Foundry 14 / dnd5e 5.3.3 или 6. Для Midi-QOL выберите версию по таблице в README. Проверка в работающем Foundry доступна кнопкой «Диагностика».</p>`);
    await game.settings.set(ID,'welcomeSeen',true);
   }
  }catch(error){notifyError(error);}

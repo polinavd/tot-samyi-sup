@@ -2,15 +2,16 @@
   "id": "tot-samyi-sup",
   "title": "Тот Самый Суп",
   "description": "Полноценное приключение на русском языке: кулинарный турнир, Кухня-на-Меже, существа и инструменты ведущего.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Конвертация пользовательских материалов"
     }
   ],
   "compatibility": {
-    "minimum": "14.367",
-    "verified": "14.369"
+    "minimum": "13.351",
+    "verified": "14.369",
+    "maximum": "14.999"
   },
   "relationships": {
     "systems": [
@@ -18,8 +19,9 @@
         "id": "dnd5e",
         "type": "system",
         "compatibility": {
-          "minimum": "6.0.0",
-          "verified": "6.0.0"
+          "minimum": "5.3.3",
+          "verified": "6.0.0",
+          "maximum": "6.999"
         }
       }
     ]
