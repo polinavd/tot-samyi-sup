@@ -3,3 +3,4 @@
 # LevelDB files must keep their exact bytes, including CURRENT.
 packs/** -text
 *.webp -text
+*.jpg -text
