@@ -10,7 +10,7 @@ const whisper=content=>CONFIG.ChatMessage.documentClass.create({content:`<div cl
 const initial=()=>({round:1,size:4,level:4,partyIds:[],ingredients:[],results:[],retried:false,victims:[],lairLast:'',teams:{sugar:{name:'Жжёный сахар',members:['mirta','pyshka']},spoons:{name:'Две ложки',members:['groh','shpyn']},brothers:{name:'Братство святого Кабачка',members:['goroh','fasol']}}});
 const state=()=>clone(game.settings.get(ID,'tournament'));
 const save=s=>game.settings.set(ID,'tournament',s);
-const sceneKey=r=>['','round1','round2','final'][r];
+const ingredientKey=t=>t?.getFlag(ID,'ingredient')??t?.actor?.getFlag(ID,'ingredient');
 const moduleActor=key=>game.actors.get(index.actors[key])??game.actors.find(a=>a.getFlag(ID,'key')===key);
 const moduleScene=key=>game.scenes.get(index.scenes[key])??game.scenes.find(s=>s.getFlag(ID,'key')===key);
 const party=s=>s.partyIds.map(id=>game.actors.get(id)).filter(a=>a&&!s.victims.some(v=>v.actorId===a.id));
@@ -95,29 +95,15 @@ class SoupPanel extends foundry.applications.api.HandlebarsApplicationMixin(foun
   await save(s);ui.notifications.info('Настройки турнира сохранены.');
  }
  async prepare(){
-  const s=state(),scene=moduleScene(sceneKey(s.round));if(!scene)throw new Error('Сначала импортируйте приключение из компендия.');
+  const s=state(),scene=moduleScene('kitchen');if(!scene)throw new Error('Сначала импортируйте приключение из компендия.');
   if(!s.partyIds.length)throw new Error('Сначала выберите персонажей и сохраните настройки.');
-  if(!scene.getFlag(ID,'prepared')){
-   const roster=scaledRoster(s.round,s.size,s.level),need=new Map();for(const key of roster)need.set(key,(need.get(key)??0)+1);
-   const updates=[];
-   for(const t of scene.tokens){
-    const key=t.getFlag(ID,'ingredient');
-    if(key){const n=need.get(key)??0;updates.push({_id:t.id,hidden:n<=0||(s.round===3&&key==='bone'),[`flags.${ID}.disabled`]:n<=0});need.set(key,Math.max(0,n-1));}
-    else if(['groh','shpyn'].includes(t.actor?.getFlag(ID,'key'))){const alive=s.teams.spoons.members.includes(t.actor.getFlag(ID,'key'));updates.push({_id:t.id,hidden:!alive,[`flags.${ID}.disabled`]:!alive});}
-   }
-   if(updates.length)await scene.updateEmbeddedDocuments('Token',updates);
-   const extra=[];
-   for(const [key,n] of need)for(let i=0;i<n;i++){
-    const a=moduleActor(key);if(!a)throw new Error(`Не найдено существо: ${key}`);
-    const t=clone(a.prototypeToken.toObject());delete t._id;
-    extra.push({...t,actorId:a.id,actorLink:false,x:2550,y:750+i*150,...tokenPlacement(scene,game.release.generation),flags:{[ID]:{ingredient:key,extra:true}}});
-   }
-   if(extra.length)await scene.createEmbeddedDocuments('Token',extra);
-   await scene.setFlag(ID,'prepared',true);
-  }else ui.notifications.info('Сцена уже подготовлена. Состояние существ сохранено; сложность повторно не пересчитывается.');
-  await this.placeParty(scene,s);
+  await this.placeParty(scene,s,true);
+  await scene.setFlag(ID,'round',s.round);
   await scene.activate();await scene.view();
-  await whisper(`<h3>${e(scene.name)}</h3><p>Охота длится 10 раундов. Бой создаётся отдельной кнопкой. ${s.round===3?'Кость скрыта до обнаружения. Колобок не делает Рывок; до лаза от двери 90 фт. На инициативе 20 — 10 временных хитов одному ингредиенту, кроме лука.':''}</p>`);
+  const roster=scaledRoster(s.round,s.size,s.level),counts=new Map();
+  for(const key of roster)counts.set(key,(counts.get(key)??0)+1);
+  const list=[...counts].map(([key,n])=>`${e(moduleActor(key)?.name??key)} × ${n}`).join('; ');
+  await whisper(`<h3>Тур ${s.round} · главная карта</h3><p>Расставьте ингредиенты вручную из папки существ: ${list}. При смене тура уберите оставшиеся токены ингредиентов предыдущего тура. Расстановка и хиты существ автоматически не сбрасываются.</p><p>Охота длится 10 раундов. ${s.round===3?'Скройте кость до обнаружения; на инициативе 20 — 10 временных хитов одному ингредиенту, кроме лука.':''}</p>`);
  }
  async placeParty(scene,s,kitchen=false){
   const positions=kitchen?[{x:3750,y:1900},{x:3850,y:2000},{x:3650,y:2000},{x:3950,y:1900},{x:3550,y:1900}]:scene.getFlag(ID,'partyPositions');
@@ -130,17 +116,17 @@ class SoupPanel extends foundry.applications.api.HandlebarsApplicationMixin(foun
   if(create.length)await scene.createEmbeddedDocuments('Token',create);
  }
  async combat(){
-  const s=state(),scene=moduleScene(sceneKey(s.round));if(!scene||canvas.scene?.id!==scene.id)throw new Error('Сначала подготовьте сцену текущего тура.');
+  const s=state(),scene=moduleScene('kitchen');if(!scene||canvas.scene?.id!==scene.id||scene.getFlag(ID,'round')!==s.round)throw new Error('Сначала подготовьте сцену текущего тура.');
   const existing=game.combats.find(c=>c.scene?.id===scene.id&&c.getFlag(ID,'round')===s.round);
   if(existing){await existing.activate();ui.notifications.info('Бой этого тура уже существует. Откройте его в трекере.');return;}
-  const tokens=scene.tokens.filter(t=>!t.getFlag(ID,'disabled')&&(t.getFlag(ID,'ingredient')||t.getFlag(ID,'party')||['groh','shpyn'].includes(t.actor?.getFlag(ID,'key'))));
+  const tokens=scene.tokens.filter(t=>!t.getFlag(ID,'disabled')&&(ingredientKey(t)||t.getFlag(ID,'party')||(s.round===2&&['groh','shpyn'].includes(t.actor?.getFlag(ID,'key')))));
   const c=await CONFIG.Combat.documentClass.create({scene:scene.id,active:true,flags:{[ID]:{round:s.round,timer:true,expired:false}}});
   await c.createEmbeddedDocuments('Combatant',tokens.map(t=>({tokenId:t.id,sceneId:scene.id,actorId:t.actorId,hidden:t.hidden})));
   await c.activate();ui.notifications.info('Бой создан. Бросьте инициативу и начните бой обычной кнопкой.');
  }
  async harvest(){
   const s=state(),t=canvas.tokens.controlled[0]?.document;
-  if(!t?.getFlag(ID,'ingredient'))throw new Error('Выберите один токен ингредиента на текущей сцене.');
+  if(!ingredientKey(t))throw new Error('Выберите один токен ингредиента на текущей сцене.');
   if(canvas.tokens.controlled.length!==1)throw new Error('Выберите ровно один токен ингредиента.');
   if(t.getFlag(ID,'disabled'))throw new Error('Этот ингредиент выключен настройкой сложности.');
   if(canvas.scene?.getFlag(ID,'round')!==s.round)throw new Error('Текущая сцена не соответствует выбранному туру.');
@@ -148,7 +134,7 @@ class SoupPanel extends foundry.applications.api.HandlebarsApplicationMixin(foun
   const hp=t.actor.system.attributes.hp;
   const f=await ask('Добивающий удар',`<p><strong>${e(t.name)}</strong>. Введите хиты <em>до</em> добивающего удара, включая временные. Урон — фактически нанесённый после сопротивлений и иммунитетов. Для смешанного удара отметьте все нанесённые типы порчи.</p>${number('remaining','Хиты + временные до удара',Math.max(1,hp.value+(hp.temp??0)),1)}${number('damage','Фактический урон добивающего удара',Math.max(1,hp.value+(hp.temp??0)),1)}${check('acid','Удар содержит урон кислотой')}${check('necrotic','Удар содержит некротический урон')}${check('poison','Удар содержит урон ядом')}${select('owner','После удара ингредиент…',[['floor','Лежит на полу'],['heroes','Подобран героями'],['rivals','Унесён соперниками']],'floor')}`,'Зафиксировать');
   if(!f)return;
-  const key=t.getFlag(ID,'ingredient'),spoiled=spoilage({remaining:Number(f.get('remaining')),damage:Number(f.get('damage')),types:['acid','necrotic','poison'].filter(k=>f.has(k)),alwaysSpoiled:key==='bone'});
+  const key=ingredientKey(t),spoiled=spoilage({remaining:Number(f.get('remaining')),damage:Number(f.get('damage')),types:['acid','necrotic','poison'].filter(k=>f.has(k)),alwaysSpoiled:key==='bone'});
   const row={id:foundry.utils.randomID(),tokenUuid:t.uuid,key,name:t.name,spoiled,owner:f.get('owner'),round:s.round};
   // Persist the ledger first. If a token update fails the authoritative result is not lost.
   s.ingredients.push(row);await save(s);
@@ -201,9 +187,9 @@ class SoupPanel extends foundry.applications.api.HandlebarsApplicationMixin(foun
  }
  async tempHP(){
   const t=canvas.tokens.controlled[0]?.document;
-  if(state().round!==3||!t?.getFlag(ID,'ingredient'))throw new Error('В финале выберите токен ингредиента.');
+  if(state().round!==3||!ingredientKey(t))throw new Error('В финале выберите токен ингредиента.');
   if(canvas.tokens.controlled.length!==1)throw new Error('Выберите ровно один токен.');
-  if(t.getFlag(ID,'ingredient')==='onion')throw new Error('Луковая стая не получает временные хиты.');
+  if(ingredientKey(t)==='onion')throw new Error('Луковая стая не получает временные хиты.');
   if(t.getFlag(ID,'harvested')||t.getFlag(ID,'disabled'))throw new Error('Этот ингредиент уже собран или выключен.');
   await t.actor.update({'system.attributes.hp.temp':Math.max(10,t.actor.system.attributes.hp.temp??0)});
   await whisper(`<p>«Аккуратнее!» ${e(t.name)} получает 10 временных хитов; они не складываются с уже имеющимися. Используйте на инициативе 20, проигрывая равенство.</p>`);

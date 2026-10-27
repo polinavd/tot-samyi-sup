@@ -22,10 +22,7 @@
     "player-ghost": "d18f209356104857"
   },
   "scenes": {
-    "kitchen": "e6f360f12788cd09",
-    "round1": "0dd124607e1bf12a",
-    "round2": "355e47575451a186",
-    "final": "5243320ebdcdea62"
+    "kitchen": "e6f360f12788cd09"
   },
   "guide": "89343e2eff79de6f",
   "handouts": "f2f17d9b368d52b2",
