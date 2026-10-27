@@ -1,0 +1,15 @@
+{
+  "source": "Кухня карта без лейблов.jpg",
+  "sourceSize": [
+    22500,
+    10500
+  ],
+  "sourceSha256": "94188bbbf9f62f456adb522ecf730fb9ecc761e3bc5c18cef63c0e6ffde1c749",
+  "file": "assets/maps/kitchen-players.webp",
+  "size": [
+    7500,
+    3500
+  ],
+  "fileSha256": "c3f9bd06400e6cd151888cf86320bef97a01a3d8f5dbf7bbf52bd072bfd89f1e",
+  "changes": "Масштабирование исходного JPG без подписей и преобразование в WebP. Геометрия сцены сохранена."
+}
