@@ -9,7 +9,7 @@
       "_id": "c345b837ac466ecc",
       "name": "Тыква-громила",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/pumpkin.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/pumpkin.png",
       "system": {
         "identifier": "pumpkin",
         "abilities": {
@@ -67,7 +67,7 @@
           "cr": 0.5,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p></p>"
+            "value": "<p></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/largepumpkin1\">Large Pumpkin 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -335,14 +335,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "pumpkin",
-          "ingredient": "pumpkin"
+          "ingredient": "pumpkin",
+          "tokenArt": {
+            "name": "Large Pumpkin 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/largepumpkin1",
+            "artist": "Fairbanks",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Тыква-громила",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/pumpkin.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/pumpkin.png"
         },
         "width": 1,
         "height": 1,
@@ -366,7 +373,7 @@
       "_id": "5b216e556399d0b9",
       "name": "Визжащая мандрагора",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/mandrake.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/mandrake.png",
       "system": {
         "identifier": "mandrake",
         "abilities": {
@@ -424,7 +431,7 @@
           "cr": 0.25,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p></p>"
+            "value": "<p></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/awakenedroot\">Awakened Root 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -673,14 +680,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "mandrake",
-          "ingredient": "mandrake"
+          "ingredient": "mandrake",
+          "tokenArt": {
+            "name": "Awakened Root 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/awakenedroot",
+            "artist": "David Rhodes",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Визжащая мандрагора",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/mandrake.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/mandrake.png"
         },
         "width": 1,
         "height": 1,
@@ -704,7 +718,7 @@
       "_id": "f1df1eef5b785f26",
       "name": "Луковая стая",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/onion.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/onion.png",
       "system": {
         "identifier": "onion",
         "abilities": {
@@ -762,7 +776,7 @@
           "cr": 0.5,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p></p>"
+            "value": "<p></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">onion.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -1133,14 +1147,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "onion",
-          "ingredient": "onion"
+          "ingredient": "onion",
+          "tokenArt": {
+            "name": "onion.svg",
+            "page": "https://opengameart.org/content/cc0-food-icons",
+            "artist": "Glitch / Tiny Speck",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Луковая стая",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/onion.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/onion.png"
         },
         "width": 1,
         "height": 1,
@@ -1164,7 +1185,7 @@
       "_id": "172240985e2e1f2b",
       "name": "Кочан-кусака",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/cabbage.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/cabbage.png",
       "system": {
         "identifier": "cabbage",
         "abilities": {
@@ -1222,7 +1243,7 @@
           "cr": 0.25,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p></p>"
+            "value": "<p></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">cabbage.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -1444,14 +1465,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "cabbage",
-          "ingredient": "cabbage"
+          "ingredient": "cabbage",
+          "tokenArt": {
+            "name": "cabbage.svg",
+            "page": "https://opengameart.org/content/cc0-food-icons",
+            "artist": "Glitch / Tiny Speck",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Кочан-кусака",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/cabbage.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/cabbage.png"
         },
         "width": 1,
         "height": 1,
@@ -1475,7 +1503,7 @@
       "_id": "1b3d7b7b56a86f6b",
       "name": "Окорок-на-ножках",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/ham.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/ham.png",
       "system": {
         "identifier": "ham",
         "abilities": {
@@ -1532,7 +1560,7 @@
           "cr": 1,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p></p>"
+            "value": "<p></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">ham.svg</a> — marauder; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -1798,14 +1826,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "ham",
-          "ingredient": "ham"
+          "ingredient": "ham",
+          "tokenArt": {
+            "name": "ham.svg",
+            "page": "https://opengameart.org/content/cc0-food-icons",
+            "artist": "marauder",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Окорок-на-ножках",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/ham.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/ham.png"
         },
         "width": 1,
         "height": 1,
@@ -1829,7 +1864,7 @@
       "_id": "52ffb3a8187578e1",
       "name": "Кость-на-ножках",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/bone.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/bone.png",
       "system": {
         "identifier": "bone",
         "abilities": {
@@ -1887,7 +1922,7 @@
           "cr": 0.25,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p></p>"
+            "value": "<p></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/node/3755\">Pixel art femur</a> — bart; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -2119,14 +2154,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "bone",
-          "ingredient": "bone"
+          "ingredient": "bone",
+          "tokenArt": {
+            "name": "Pixel art femur",
+            "page": "https://opengameart.org/node/3755",
+            "artist": "bart",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Кость-на-ножках",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/bone.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/bone.png"
         },
         "width": 1,
         "height": 1,
@@ -2150,7 +2192,7 @@
       "_id": "084634bcc64e6251",
       "name": "Колобок вчерашний",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/bread.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/bread.png",
       "system": {
         "identifier": "bread",
         "abilities": {
@@ -2206,7 +2248,7 @@
           "cr": 0.125,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p></p>"
+            "value": "<p></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">bun.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -2490,14 +2532,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "bread",
-          "ingredient": "bread"
+          "ingredient": "bread",
+          "tokenArt": {
+            "name": "bun.svg",
+            "page": "https://opengameart.org/content/cc0-food-icons",
+            "artist": "Glitch / Tiny Speck",
+            "license": "CC0",
+            "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Колобок вчерашний",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/bread.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/bread.png"
         },
         "width": 1,
         "height": 1,
@@ -2521,7 +2570,7 @@
       "_id": "968d5118af5718fc",
       "name": "Крапивная лоза",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/nettle.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/nettle.png",
       "system": {
         "identifier": "nettle",
         "abilities": {
@@ -2579,7 +2628,7 @@
           "cr": 1,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p></p>"
+            "value": "<p></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/assassinvine\">Assassin Vine</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -2833,14 +2882,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "nettle",
-          "ingredient": "nettle"
+          "ingredient": "nettle",
+          "tokenArt": {
+            "name": "Assassin Vine",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/assassinvine",
+            "artist": "David Rhodes",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Крапивная лоза",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/nettle.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/nettle.png"
         },
         "width": 2,
         "height": 2,
@@ -2864,7 +2920,7 @@
       "_id": "97bfa81171ce43c9",
       "name": "Матушка Шкварка",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/witch.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/witch.png",
       "system": {
         "identifier": "witch",
         "abilities": {
@@ -2925,7 +2981,7 @@
           "cr": 5,
           "alignment": "нейтрально-злая",
           "biography": {
-            "value": "<p>Малуша забыла мать Дарину, отдав воспоминание ковену за вечную сытость. Обещанное желание исполнить не может.</p>"
+            "value": "<p>Малуша забыла мать Дарину, отдав воспоминание ковену за вечную сытость. Обещанное желание исполнить не может.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/greenhag\">Green Hag 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -4589,14 +4645,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "witch",
-          "ingredient": null
+          "ingredient": null,
+          "tokenArt": {
+            "name": "Green Hag 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/greenhag",
+            "artist": "Fairbanks",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Матушка Шкварка",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/witch.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/witch.png"
         },
         "width": 1,
         "height": 1,
@@ -4620,7 +4683,7 @@
       "_id": "40cc7ccb1b9c3768",
       "name": "Мирта Пенка",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/mirta.png",
       "system": {
         "abilities": {
           "str": {
@@ -4750,7 +4813,7 @@
         },
         "details": {
           "biography": {
-            "value": "<p>«Жжёный сахар». Законно-нейтральная полурослица, кондитер в чёрном кружеве. Вежлива и никому не доверяет. Результат готовки 15.</p>"
+            "value": "<p>«Жжёный сахар». Законно-нейтральная полурослица, кондитер в чёрном кружеве. Вежлива и никому не доверяет. Результат готовки 15.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/halflingcommoner1\">Halfling Commoner 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           },
           "alignment": "Any",
           "race": null,
@@ -5141,7 +5204,7 @@
         "name": "Мирта Пенка",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/mirta.png"
         },
         "width": 1,
         "height": 1,
@@ -5355,7 +5418,14 @@
       },
       "flags": {
         "tot-samyi-sup": {
-          "key": "mirta"
+          "key": "mirta",
+          "tokenArt": {
+            "name": "Halfling Commoner 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/halflingcommoner1",
+            "artist": "Fairbanks",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "folder": "3fea03819d0db3b8",
@@ -5369,7 +5439,7 @@
       "_id": "c0c2865c064b723d",
       "name": "Пышка",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/pyshka.png",
       "system": {
         "abilities": {
           "str": {
@@ -5499,7 +5569,7 @@
         },
         "details": {
           "biography": {
-            "value": "<p>Нейтральная полурослица, подмастерье Мирты. Молчит и нервно облизывает ложку.</p>"
+            "value": "<p>Нейтральная полурослица, подмастерье Мирты. Молчит и нервно облизывает ложку.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/halflingfarmer1\">Halfling Farmer 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           },
           "alignment": "Any",
           "race": null,
@@ -5890,7 +5960,7 @@
         "name": "Пышка",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/pyshka.png"
         },
         "width": 1,
         "height": 1,
@@ -6104,7 +6174,14 @@
       },
       "flags": {
         "tot-samyi-sup": {
-          "key": "pyshka"
+          "key": "pyshka",
+          "tokenArt": {
+            "name": "Halfling Farmer 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/halflingfarmer1",
+            "artist": "Fairbanks",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "folder": "3fea03819d0db3b8",
@@ -6118,7 +6195,7 @@
       "_id": "fc152495d6a9ef6f",
       "name": "Грох",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/groh.png",
       "system": {
         "abilities": {
           "str": {
@@ -6248,7 +6325,7 @@
         },
         "details": {
           "biography": {
-            "value": "<p>«Две ложки». Хаотично-нейтральный орк, бывший полковой повар. Во втором туре выбивает добычу проверкой Атлетики против Атлетики или Акробатики. Атакует героев, если они напали первыми.</p>"
+            "value": "<p>«Две ложки». Хаотично-нейтральный орк, бывший полковой повар. Во втором туре выбивает добычу проверкой Атлетики против Атлетики или Акробатики. Атакует героев, если они напали первыми.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/halforcbarbarian3\">Half Orc Barbarian 3</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           },
           "alignment": "Any non-good alignment",
           "race": null,
@@ -6639,7 +6716,7 @@
         "name": "Грох",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/groh.png"
         },
         "width": 1,
         "height": 1,
@@ -7352,7 +7429,14 @@
       },
       "flags": {
         "tot-samyi-sup": {
-          "key": "groh"
+          "key": "groh",
+          "tokenArt": {
+            "name": "Half Orc Barbarian 3",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/halforcbarbarian3",
+            "artist": "Fairbanks",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "folder": "3fea03819d0db3b8",
@@ -7366,7 +7450,7 @@
       "_id": "5dad9e4dc884d131",
       "name": "Шпынь",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/goblin.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/shpyn.png",
       "system": {
         "abilities": {
           "str": {
@@ -7496,7 +7580,7 @@
         },
         "details": {
           "biography": {
-            "value": "<p>Нейтрально-злой гоблин. Подбирает бесхозные ингредиенты и несёт к двери. Каждый вынесенный ингредиент даёт «Двум ложкам» +2 ко второму туру.</p>"
+            "value": "<p>Нейтрально-злой гоблин. Подбирает бесхозные ингредиенты и несёт к двери. Каждый вынесенный ингредиент даёт «Двум ложкам» +2 ко второму туру.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/goblin11\">Goblin 11</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           },
           "alignment": "Neutral Evil",
           "race": null,
@@ -7890,7 +7974,7 @@
         "name": "Шпынь",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/goblin.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/shpyn.png"
         },
         "width": 1,
         "height": 1,
@@ -8506,7 +8590,14 @@
       },
       "flags": {
         "tot-samyi-sup": {
-          "key": "shpyn"
+          "key": "shpyn",
+          "tokenArt": {
+            "name": "Goblin 11",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/goblin11",
+            "artist": "David Rhodes",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "folder": "3fea03819d0db3b8",
@@ -8520,7 +8611,7 @@
       "_id": "9d445fa99bb4831c",
       "name": "Горох",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/goroh.png",
       "system": {
         "abilities": {
           "str": {
@@ -8650,7 +8741,7 @@
         },
         "details": {
           "biography": {
-            "value": "<p>«Братство святого Кабачка». Законно-добрый человек-послушник, брат Фасоли. При поражении добровольно идёт в котёл. Результат первого тура 10.</p>"
+            "value": "<p>«Братство святого Кабачка». Законно-добрый человек-послушник, брат Фасоли. При поражении добровольно идёт в котёл. Результат первого тура 10.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/priest01\">Priest 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           },
           "alignment": "Any",
           "race": null,
@@ -9041,7 +9132,7 @@
         "name": "Горох",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/goroh.png"
         },
         "width": 1,
         "height": 1,
@@ -10183,7 +10274,14 @@
       },
       "flags": {
         "tot-samyi-sup": {
-          "key": "goroh"
+          "key": "goroh",
+          "tokenArt": {
+            "name": "Priest 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/priest01",
+            "artist": "David Rhodes",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "folder": "3fea03819d0db3b8",
@@ -10197,7 +10295,7 @@
       "_id": "6a78b9b1aa984098",
       "name": "Фасоль",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/human.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/fasol.png",
       "system": {
         "abilities": {
           "str": {
@@ -10327,7 +10425,7 @@
         },
         "details": {
           "biography": {
-            "value": "<p>Законно-добрый послушник. Вместе с Горохом хочет попросить дождливое лето для огорода. Результат второго тура 16.</p>"
+            "value": "<p>Законно-добрый послушник. Вместе с Горохом хочет попросить дождливое лето для огорода. Результат второго тура 16.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/priest2\">Priest 2</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           },
           "alignment": "Any",
           "race": null,
@@ -10718,7 +10816,7 @@
         "name": "Фасоль",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/fasol.png"
         },
         "width": 1,
         "height": 1,
@@ -11860,7 +11958,14 @@
       },
       "flags": {
         "tot-samyi-sup": {
-          "key": "fasol"
+          "key": "fasol",
+          "tokenArt": {
+            "name": "Priest 2",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/priest2",
+            "artist": "David Rhodes",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "folder": "3fea03819d0db3b8",
@@ -11874,7 +11979,7 @@
       "_id": "aa8c52e6283024e1",
       "name": "Малуша",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/witch.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/malusha.png",
       "system": {
         "abilities": {
           "str": {
@@ -12004,7 +12109,7 @@
         },
         "details": {
           "biography": {
-            "value": "<p>Шкварка после разрыва договора — обычная старая женщина с пустой миской. Не может исполнить желание.</p>"
+            "value": "<p>Шкварка после разрыва договора — обычная старая женщина с пустой миской. Не может исполнить желание.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/elderlyhalfling1\">Elderly Halfling 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           },
           "alignment": "Any",
           "race": null,
@@ -12395,7 +12500,7 @@
         "name": "Малуша",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/witch.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/malusha.png"
         },
         "width": 1,
         "height": 1,
@@ -12609,7 +12714,14 @@
       },
       "flags": {
         "tot-samyi-sup": {
-          "key": "malusha"
+          "key": "malusha",
+          "tokenArt": {
+            "name": "Elderly Halfling 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/elderlyhalfling1",
+            "artist": "Fairbanks",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "folder": "3fea03819d0db3b8",
@@ -12623,7 +12735,7 @@
       "_id": "7bd45f68606bb017",
       "name": "Квакуша",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/frog.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/frog.png",
       "system": {
         "identifier": "frog",
         "abilities": {
@@ -12679,7 +12791,7 @@
           "cr": 0,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p>Призрак лягушки размером с собаку. Любит жирное. Знает, что Шкварка забирает воспоминания проигравших.</p>"
+            "value": "<p>Призрак лягушки размером с собаку. Любит жирное. Знает, что Шкварка забирает воспоминания проигравших.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/gianttoad1\">Giant Toad 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -12743,14 +12855,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "frog",
-          "ingredient": null
+          "ingredient": null,
+          "tokenArt": {
+            "name": "Giant Toad 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/gianttoad1",
+            "artist": "David Rhodes",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Квакуша",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/frog.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/frog.png"
         },
         "width": 1,
         "height": 1,
@@ -12774,7 +12893,7 @@
       "_id": "5872c44fd7b36e8b",
       "name": "Капитан Мосол",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/ghost.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/mosol.png",
       "system": {
         "identifier": "mosol",
         "abilities": {
@@ -12830,7 +12949,7 @@
           "cr": 0,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p>Призрак мужа Ганны, прошлогодний финалист. Сварил лучший суп в своей жизни и проиграл. Любит острое и большие порции.</p>"
+            "value": "<p>Призрак мужа Ганны, прошлогодний финалист. Сварил лучший суп в своей жизни и проиграл. Любит острое и большие порции.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/caradoc1\">Ghost Soldier 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -12894,14 +13013,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "mosol",
-          "ingredient": null
+          "ingredient": null,
+          "tokenArt": {
+            "name": "Ghost Soldier 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/caradoc1",
+            "artist": "David Rhodes",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Капитан Мосол",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/ghost.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/mosol.png"
         },
         "width": 1,
         "height": 1,
@@ -12925,7 +13051,7 @@
       "_id": "e3f2b28313ccf8da",
       "name": "Молчаливая старуха — Дарина",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/ghost.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/darina.png",
       "system": {
         "identifier": "darina",
         "abilities": {
@@ -12981,7 +13107,7 @@
           "cr": 0,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p>Мать Малуши. Молчит, всем удачным блюдам ставит 0, неудачным 1. Руки дрожат. Воспоминание хранится в старой банке.</p>"
+            "value": "<p>Мать Малуши. Молчит, всем удачным блюдам ставит 0, неудачным 1. Руки дрожат. Воспоминание хранится в старой банке.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/elderlyhuman1\">Elderly Human 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -13045,14 +13171,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "darina",
-          "ingredient": null
+          "ingredient": null,
+          "tokenArt": {
+            "name": "Elderly Human 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/elderlyhuman1",
+            "artist": "Fairbanks",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Молчаливая старуха — Дарина",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/ghost.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/darina.png"
         },
         "width": 1,
         "height": 1,
@@ -13076,7 +13209,7 @@
       "_id": "d18f209356104857",
       "name": "Призрак участника",
       "type": "npc",
-      "img": "modules/tot-samyi-sup/assets/tokens/ghost.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/player-ghost.png",
       "system": {
         "identifier": "player-ghost",
         "abilities": {
@@ -13132,7 +13265,7 @@
           "cr": 0,
           "alignment": "без мировоззрения",
           "biography": {
-            "value": "<p>Шаблон для призрака персонажа в котле. Назначьте игроку владение копией. Его исходный персонаж остаётся в котле; призрак не получает боевых действий.</p>"
+            "value": "<p>Шаблон для призрака персонажа в котле. Назначьте игроку владение копией. Его исходный персонаж остаётся в котле; призрак не получает боевых действий.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/allip\">Allip 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           }
         },
         "traits": {
@@ -13196,14 +13329,21 @@
       "flags": {
         "tot-samyi-sup": {
           "key": "player-ghost",
-          "ingredient": null
+          "ingredient": null,
+          "tokenArt": {
+            "name": "Allip 1",
+            "page": "https://tools.2minutetabletop.com/token-editor/edit/allip",
+            "artist": "David Rhodes",
+            "license": "CC BY-NC 4.0",
+            "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/"
+          }
         }
       },
       "prototypeToken": {
         "name": "Призрак участника",
         "actorLink": false,
         "texture": {
-          "src": "modules/tot-samyi-sup/assets/tokens/ghost.svg"
+          "src": "modules/tot-samyi-sup/assets/tokens/player-ghost.png"
         },
         "width": 1,
         "height": 1,
@@ -13320,7 +13460,7 @@
       "_id": "247b1840d58e777c",
       "name": "Тыква · годное",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/pumpkin.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/pumpkin.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13330,7 +13470,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Годный продукт.</p>"
+          "value": "<p>Ингредиент для турнира. Годный продукт.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/largepumpkin1\">Large Pumpkin 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13351,7 +13491,7 @@
       "_id": "1874455772e9cb43",
       "name": "Тыква · испорчено",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/pumpkin.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/pumpkin.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13361,7 +13501,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p>"
+          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/largepumpkin1\">Large Pumpkin 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13382,7 +13522,7 @@
       "_id": "0b666175da6cfd64",
       "name": "Мандрагора · годное",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/mandrake.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/mandrake.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13392,7 +13532,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Годный продукт.</p>"
+          "value": "<p>Ингредиент для турнира. Годный продукт.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/awakenedroot\">Awakened Root 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13413,7 +13553,7 @@
       "_id": "fd1dba97c40dc25d",
       "name": "Мандрагора · испорчено",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/mandrake.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/mandrake.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13423,7 +13563,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p>"
+          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/awakenedroot\">Awakened Root 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13444,7 +13584,7 @@
       "_id": "254115c43f04ae14",
       "name": "Лук · годное",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/onion.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/onion.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13454,7 +13594,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Годный продукт.</p>"
+          "value": "<p>Ингредиент для турнира. Годный продукт.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">onion.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13475,7 +13615,7 @@
       "_id": "531415fefbc3ac91",
       "name": "Лук · испорчено",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/onion.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/onion.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13485,7 +13625,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p>"
+          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">onion.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13506,7 +13646,7 @@
       "_id": "a576fc5cf3fd54a2",
       "name": "Кочан капусты · годное",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/cabbage.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/cabbage.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13516,7 +13656,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Годный продукт.</p>"
+          "value": "<p>Ингредиент для турнира. Годный продукт.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">cabbage.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13537,7 +13677,7 @@
       "_id": "6ac9b0ca0249ed0a",
       "name": "Кочан капусты · испорчено",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/cabbage.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/cabbage.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13547,7 +13687,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p>"
+          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">cabbage.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13568,7 +13708,7 @@
       "_id": "b945a08a67237835",
       "name": "Окорок · годное",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/ham.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/ham.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13578,7 +13718,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Годный продукт.</p>"
+          "value": "<p>Ингредиент для турнира. Годный продукт.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">ham.svg</a> — marauder; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13599,7 +13739,7 @@
       "_id": "7d19009bfa43c091",
       "name": "Окорок · испорчено",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/ham.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/ham.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13609,7 +13749,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p>"
+          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">ham.svg</a> — marauder; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13630,7 +13770,7 @@
       "_id": "6b4ff0333f272a66",
       "name": "Старая кость · испорчено",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/bone.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/bone.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13640,7 +13780,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p>"
+          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/node/3755\">Pixel art femur</a> — bart; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13661,7 +13801,7 @@
       "_id": "527f30e96859d440",
       "name": "Вчерашний хлеб · годное",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/bread.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/bread.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13671,7 +13811,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Годный продукт.</p>"
+          "value": "<p>Ингредиент для турнира. Годный продукт.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">bun.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13692,7 +13832,7 @@
       "_id": "85b0a237ee5e3aad",
       "name": "Вчерашний хлеб · испорчено",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/bread.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/bread.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13702,7 +13842,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p>"
+          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">bun.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13723,7 +13863,7 @@
       "_id": "94480c2d6d8a3f9b",
       "name": "Крапива · годное",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/nettle.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/nettle.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13733,7 +13873,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Годный продукт.</p>"
+          "value": "<p>Ингредиент для турнира. Годный продукт.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/assassinvine\">Assassin Vine</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -13754,7 +13894,7 @@
       "_id": "e2760e580d767ba6",
       "name": "Крапива · испорчено",
       "type": "loot",
-      "img": "modules/tot-samyi-sup/assets/tokens/nettle.svg",
+      "img": "modules/tot-samyi-sup/assets/tokens/nettle.png",
       "folder": "8491d5ceaa99b95c",
       "flags": {
         "tot-samyi-sup": {
@@ -13764,7 +13904,7 @@
       },
       "system": {
         "description": {
-          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p>"
+          "value": "<p>Ингредиент для турнира. Испорчен: −2 к готовке.</p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/assassinvine\">Assassin Vine</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
         },
         "quantity": 1,
         "type": {
@@ -14666,7 +14806,7 @@
           },
           "text": {
             "format": 1,
-            "content": "<div class=\"tss-journal\"><h2>Что делает модуль</h2><p>Штатный компендий Adventure, оригинальный текст по главам, точки зон, раздаточные страницы, авторские монстры, соперники, предметы, составы трёх туров, шаблон призрака и панель учёта турнира. Атаки, урон и спасброски используют Activities системы dnd5e.</p><p>Панель хранит добычу, выбранную группу, состояние соперников и результаты туров в настройке мира. Сброс турнира очищает только этот учёт. Он не лечит существ, не удаляет токены и не восстанавливает потраченные предметы.</p><p>Порча фиксируется ведущим: обычное обновление хитов не содержит надёжно тип и величину добивающего урона, особенно при смешанном уроне и временных хитах. При смешанном добивающем ударе наличие кислоты, некротической энергии или яда трактуется как порча. Введённый урон должен уже учитывать иммунитеты и сопротивления.</p><p>Захваты, перемещения в котёл, состояния и их окончание, преимущество Ненасытной, реакции мандрагор, условия роя, ножи логова, потеря воспоминаний, смерть и воскрешение разрешает ведущий. Способности содержат текст и броски; универсальная автоматизация боя и Midi-QOL не требуются.</p><p>Целевые связки: Foundry 13.351 / dnd5e 5.3.3 и Foundry 14 / dnd5e 5.3.3 или 6. Данные используют формат 13.351 / 5.3.3; новая версия движка преобразует их при загрузке. Версии сверены 26.10.2026. Проверки сборки и механик выполнены вне игрового сервера. Полный импорт и игровая сессия в запущенном Foundry не проверены. Для проверки внутри вашего мира предусмотрена кнопка диагностики, которая вызывает настоящую валидацию документов Foundry и выводит ошибки ведущему.</p></div>"
+            "content": "<div class=\"tss-journal\"><h2>Что делает модуль</h2><p>Штатный компендий Adventure, оригинальный текст по главам, точки зон, раздаточные страницы, авторские монстры, соперники, предметы, составы трёх туров, шаблон призрака и панель учёта турнира. Атаки, урон и спасброски используют Activities системы dnd5e.</p><p>Панель хранит добычу, выбранную группу, состояние соперников и результаты туров в настройке мира. Сброс турнира очищает только этот учёт. Он не лечит существ, не удаляет токены и не восстанавливает потраченные предметы.</p><p>Порча фиксируется ведущим: обычное обновление хитов не содержит надёжно тип и величину добивающего урона, особенно при смешанном уроне и временных хитах. При смешанном добивающем ударе наличие кислоты, некротической энергии или яда трактуется как порча. Введённый урон должен уже учитывать иммунитеты и сопротивления.</p><p>Захваты, перемещения в котёл, состояния и их окончание, преимущество Ненасытной, реакции мандрагор, условия роя, ножи логова, потеря воспоминаний, смерть и воскрешение разрешает ведущий. Способности содержат текст и броски; универсальная автоматизация боя и Midi-QOL не требуются.</p><p>Целевые связки: Foundry 13.351 / dnd5e 5.3.3 и Foundry 14 / dnd5e 5.3.3 или 6. Данные используют формат 13.351 / 5.3.3; новая версия движка преобразует их при загрузке. Версии сверены 26.10.2026. Проверки сборки и механик выполнены вне игрового сервера. Полный импорт и игровая сессия в запущенном Foundry не проверены. Для проверки внутри вашего мира предусмотрена кнопка диагностики, которая вызывает настоящую валидацию документов Foundry и выводит ошибки ведущему.</p></div><h3>Токены-заглушки: источники</h3><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/greenhag\">Green Hag 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/halflingcommoner1\">Halfling Commoner 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/halflingfarmer1\">Halfling Farmer 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/halforcbarbarian3\">Half Orc Barbarian 3</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/goblin11\">Goblin 11</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/priest01\">Priest 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/priest2\">Priest 2</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/elderlyhalfling1\">Elderly Halfling 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/gianttoad1\">Giant Toad 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/caradoc1\">Ghost Soldier 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/elderlyhuman1\">Elderly Human 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/allip\">Allip 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/largepumpkin1\">Large Pumpkin 1</a> — Fairbanks; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/awakenedroot\">Awakened Root 1</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">onion.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">cabbage.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">ham.svg</a> — marauder; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/node/3755\">Pixel art femur</a> — bart; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://opengameart.org/content/cc0-food-icons\">bun.svg</a> — Glitch / Tiny Speck; <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p><p class=\"tss-token-credit\"><small>Токен-заглушка: <a href=\"https://tools.2minutetabletop.com/token-editor/edit/assassinvine\">Assassin Vine</a> — David Rhodes; <a href=\"https://creativecommons.org/licenses/by-nc/4.0/\">CC BY-NC 4.0</a>. Добавлена круглая рамка, масштабирование и экспорт в PNG.</small></p>"
           },
           "ownership": {
             "default": -1
@@ -14760,7 +14900,7 @@
           "name": "Матушка Шкварка",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/witch.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/witch.png"
           },
           "width": 1,
           "height": 1,
@@ -14795,7 +14935,7 @@
           "name": "Мирта Пенка",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/mirta.png"
           },
           "width": 1,
           "height": 1,
@@ -14827,7 +14967,7 @@
           "name": "Пышка",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/pyshka.png"
           },
           "width": 1,
           "height": 1,
@@ -14859,7 +14999,7 @@
           "name": "Грох",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/groh.png"
           },
           "width": 1,
           "height": 1,
@@ -14891,7 +15031,7 @@
           "name": "Шпынь",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/goblin.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/shpyn.png"
           },
           "width": 1,
           "height": 1,
@@ -14923,7 +15063,7 @@
           "name": "Горох",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/goroh.png"
           },
           "width": 1,
           "height": 1,
@@ -14955,7 +15095,7 @@
           "name": "Фасоль",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/human.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/fasol.png"
           },
           "width": 1,
           "height": 1,
@@ -14987,7 +15127,7 @@
           "name": "Квакуша",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/frog.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/frog.png"
           },
           "width": 1,
           "height": 1,
@@ -15022,7 +15162,7 @@
           "name": "Капитан Мосол",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/ghost.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/mosol.png"
           },
           "width": 1,
           "height": 1,
@@ -15057,7 +15197,7 @@
           "name": "Молчаливая старуха — Дарина",
           "actorLink": false,
           "texture": {
-            "src": "modules/tot-samyi-sup/assets/tokens/ghost.svg"
+            "src": "modules/tot-samyi-sup/assets/tokens/darina.png"
           },
           "width": 1,
           "height": 1,
@@ -17027,7 +17167,7 @@
   "playlists": [],
   "flags": {
     "tot-samyi-sup": {
-      "version": "1.2.0"
+      "version": "1.3.0"
     }
   },
   "_stats": {

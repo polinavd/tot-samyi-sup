@@ -4,3 +4,4 @@
 packs/** -text
 *.webp -text
 *.jpg -text
+*.png -text

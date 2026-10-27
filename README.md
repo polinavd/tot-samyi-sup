@@ -26,8 +26,9 @@ https://github.com/polinavd/tot-samyi-sup/releases/latest/download/module.json
 
 ## Авторство и изображения
 
+- Токены: **Fairbanks и David Rhodes / [2-Minute Tabletop](https://2minutetabletop.com/)**; **Tiny Speck, marauder и bart**. [Источники каждого изображения](docs/ATTRIBUTION.md#токены-заглушки).
 - Обложка © **[Elena Kravets](https://www.artstation.com/elenamikhailova)**.
 - Приключение и карты предоставлены пользователем; права сохраняются за их авторами.
 - Материалы **SRD 5.1** © Wizards of the Coast — **CC BY 4.0**; шаблоны системы **dnd5e** — **MIT**. [Полные авторские отметки и лицензии](docs/ATTRIBUTION.md).
 
-**Токены пока заглушки** — для замены подбираются бесплатные изображения под открытыми лицензиями.
+**Токены пока заглушки** — используются бесплатные изображения по лицензиям **CC BY-NC 4.0** и **CC0**, оформленные в круглые PNG с прозрачностью снаружи.
